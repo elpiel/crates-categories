@@ -1,4 +1,4 @@
 
-pub fn fetch_all_categories(categories: &[&str]) { // -> HashMap? {
+//pub fn fetch_all_categories(categories: &[&str]) { // -> HashMap? {
 
-}
+//}
