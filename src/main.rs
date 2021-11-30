@@ -29,8 +29,13 @@ fn main() {
     )
     .expect("Error making the client");
 
-    let results = fetch_all_categories(&client, &list_of_categories)
+    let categories_crates = fetch_all_categories(&client, &list_of_categories)
         .expect("Should fetch all crates of every category and return them");
+    
+    // TODO: fetch each and every crates for each and every category to get the full details.
+    // the `Crate` in `categories_crates` does not contain all the information you need.
+
+    // let category_crates_with_full_details = my_function(&client, &categories_crates).expect("Should collect all the information of every crate");
 
     // TODO: Save results to file?!
 }
