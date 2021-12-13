@@ -1,26 +1,12 @@
 use crates_categories::fetch_all_categories;
 //use crates_categories::fetch_all_categories;
-use crates_io_api::{Error, ListOptions, Sort, SyncClient};
-use std::collections::HashMap;
+use crates_io_api::{SyncClient};
+//use std::collections::HashMap;
 
-fn list_top_dependencies() -> Result<(), Error> {
-    // Instantiate the client.
-    let client = SyncClient::new(
-        "IPCA - Rust",
-        std::time::Duration::from_millis(1000), //Resquests to do per second.
-    )?;
-
-    // Retrieve summary data.
-    let summary = client.summary()?;
-    for c in summary.most_downloaded {
-        println!("{}:", c.id);
-    }
-    Ok(())
-}
 
 fn main() {
     //Have a list of categories (configuration) to fetch from crates.io
-    let list_of_categories: [&str; 2] = ["algorithms", "asynchronous"];
+    let list_of_categories: [&str; 3] = ["algorithms", "asynchronous", "games"];
 
     //create a SyncClient
     let client = SyncClient::new(
@@ -31,6 +17,14 @@ fn main() {
 
     let categories_crates = fetch_all_categories(&client, &list_of_categories)
         .expect("Should fetch all crates of every category and return them");
+
+    // Just a test to print the crates that we have fetched to the categories_Crates hashmap 
+    for (categorie, krate) in categories_crates {
+        for x in krate {
+            println!("Category: {} Crate {}", categorie ,x.name)
+        }
+
+    }
     
     // TODO: fetch each and every crates for each and every category to get the full details.
     // the `Crate` in `categories_crates` does not contain all the information you need.

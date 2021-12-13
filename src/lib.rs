@@ -16,7 +16,9 @@ pub fn fetch_all_categories(client: &SyncClient, categories: &[&str]) -> Result<
 
         let previous = category_crates.insert(category.to_string(), all_crates_of_category);
 
-        assert!(previous.is_none())
+    
+
+        assert!(previous.is_none(),)
     }
     
     Ok(category_crates)
