@@ -3,6 +3,8 @@ use crates_categories::fetch_full_details;
 //use crates_categories::fetch_all_categories;
 use crates_io_api::{SyncClient};
 //use std::collections::HashMap;
+use std::fs;
+
 
 
 fn main() {
@@ -12,7 +14,7 @@ fn main() {
     //create a SyncClient
     let client = SyncClient::new(
         "IPCA - Rust",
-        std::time::Duration::from_millis(300), //Resquests to do per second.
+        std::time::Duration::from_millis(1), //Resquests to do per second.
     )
     .expect("Error making the client");
 
@@ -40,10 +42,25 @@ fn main() {
             println!("Category: {} Full Crate Name: {}",categorie , k.name);
         }
     }
-   
-    // TODO: Save results to file?! save all results to files with category-slug.json using serde_json
 
-    println!("End");
+    /*let full_crates_to_json = serde_json::to_string(&category_crates_with_full_details)
+    .expect("failed to convert to json");
+    
+    fs::write("allFullCrates.toml", full_crates_to_json)
+    .expect("Failed to write the file");
+
+    println!("End");*/
+
+    for (categorie, krate   ) in category_crates_with_full_details.iter() {
+        let vec_full_crates_to_json = serde_json::to_string_pretty(krate)
+        .expect("Error serializing");
+        
+        let path = categorie.to_string() + ".toml";
+        
+        fs::write(path, vec_full_crates_to_json)
+        .expect("Failed to write the file");
+
+    }
 
     
 }
