@@ -1,13 +1,12 @@
 use crates_categories::fetch_all_categories;
 use crates_categories::fetch_full_details;
-//use crates_categories::fetch_all_categories;
 use crates_io_api::{SyncClient};
-//use std::collections::HashMap;
 use std::fs;
 
 
 
 fn main() {
+    
     //Have a list of categories (configuration) to fetch from crates.io
     let list_of_categories: [&str; 3] = ["algorithms", "asynchronous", "games"];
 
@@ -29,9 +28,7 @@ fn main() {
 
     }
     
-    // TODO: fetch each and every crates for each and every category to get the full details.
-    // the `Crate` in `categories_crates` does not contain all the information you need.
-    // let category_crates_with_full_details = my_function(&client, &categories_crates).expect("Should collect all the information of every crate");
+    //Fetch each and every crates for each and every category to get the full details.   
     let category_crates_with_full_details = fetch_full_details(&client, &categories_crates)
         .expect("Should collect all the information of every crate");
 
@@ -43,24 +40,14 @@ fn main() {
         }
     }
 
-    /*let full_crates_to_json = serde_json::to_string(&category_crates_with_full_details)
-    .expect("failed to convert to json");
-    
-    fs::write("allFullCrates.toml", full_crates_to_json)
-    .expect("Failed to write the file");
-
-    println!("End");*/
-
+    // Serialize the full crates, to .json files for each categorie. 
     for (categorie, krate   ) in category_crates_with_full_details.iter() {
         let vec_full_crates_to_json = serde_json::to_string_pretty(krate)
         .expect("Error serializing");
         
-        let path = categorie.to_string() + ".toml";
-        
-        fs::write(path, vec_full_crates_to_json)
+        fs::write(format!("{}.json", categorie.to_string()), vec_full_crates_to_json)
         .expect("Failed to write the file");
 
     }
-
     
 }

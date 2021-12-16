@@ -578,7 +578,7 @@
     "categories": [
       {
         "category": "Algorithms",
-        "crates_cnt": 1386,
+        "crates_cnt": 1387,
         "created_at": "2017-01-17T19:13:05.112025Z",
         "description": "Rust implementations of core algorithms such as hashing, sorting, searching, and more.",
         "id": "algorithms",
@@ -812,7 +812,7 @@
     "categories": [
       {
         "category": "Algorithms",
-        "crates_cnt": 1386,
+        "crates_cnt": 1387,
         "created_at": "2017-01-17T19:13:05.112025Z",
         "description": "Rust implementations of core algorithms such as hashing, sorting, searching, and more.",
         "id": "algorithms",
@@ -1172,7 +1172,7 @@
     "documentation": null,
     "homepage": "https://github.com/typed-io/cryptoxide/",
     "repository": "https://github.com/typed-io/cryptoxide/",
-    "total_downloads": 157912,
+    "total_downloads": 158215,
     "max_version": "0.3.6",
     "created_at": "2018-09-18T09:31:26.852092Z",
     "updated_at": "2021-11-03T06:53:11.027056Z",
@@ -1296,23 +1296,23 @@
         },
         {
           "date": "2021-09-29",
-          "downloads": 1,
-          "version": 338594
-        },
-        {
-          "date": "2021-09-29",
           "downloads": 69,
           "version": 379575
         },
         {
-          "date": "2021-09-30",
-          "downloads": 109,
-          "version": 379575
+          "date": "2021-09-29",
+          "downloads": 1,
+          "version": 338594
         },
         {
           "date": "2021-09-30",
           "downloads": 4,
           "version": 338594
+        },
+        {
+          "date": "2021-09-30",
+          "downloads": 109,
+          "version": 379575
         },
         {
           "date": "2021-10-01",
@@ -1656,18 +1656,8 @@
         },
         {
           "date": "2021-11-05",
-          "downloads": 1,
-          "version": 446378
-        },
-        {
-          "date": "2021-11-05",
           "downloads": 25,
           "version": 338594
-        },
-        {
-          "date": "2021-11-05",
-          "downloads": 20,
-          "version": 448013
         },
         {
           "date": "2021-11-05",
@@ -1675,9 +1665,19 @@
           "version": 379575
         },
         {
-          "date": "2021-11-06",
-          "downloads": 2,
+          "date": "2021-11-05",
+          "downloads": 1,
+          "version": 446378
+        },
+        {
+          "date": "2021-11-05",
+          "downloads": 20,
           "version": 448013
+        },
+        {
+          "date": "2021-11-06",
+          "downloads": 18,
+          "version": 379575
         },
         {
           "date": "2021-11-06",
@@ -1686,12 +1686,7 @@
         },
         {
           "date": "2021-11-06",
-          "downloads": 18,
-          "version": 379575
-        },
-        {
-          "date": "2021-11-07",
-          "downloads": 1,
+          "downloads": 2,
           "version": 448013
         },
         {
@@ -1701,18 +1696,18 @@
         },
         {
           "date": "2021-11-07",
-          "downloads": 1,
-          "version": 446378
-        },
-        {
-          "date": "2021-11-07",
           "downloads": 23,
           "version": 379575
         },
         {
-          "date": "2021-11-08",
-          "downloads": 72,
-          "version": 379575
+          "date": "2021-11-07",
+          "downloads": 1,
+          "version": 448013
+        },
+        {
+          "date": "2021-11-07",
+          "downloads": 1,
+          "version": 446378
         },
         {
           "date": "2021-11-08",
@@ -1725,19 +1720,9 @@
           "version": 448013
         },
         {
-          "date": "2021-11-09",
-          "downloads": 1,
-          "version": 446378
-        },
-        {
-          "date": "2021-11-09",
-          "downloads": 38,
-          "version": 448013
-        },
-        {
-          "date": "2021-11-09",
-          "downloads": 1,
-          "version": 445918
+          "date": "2021-11-08",
+          "downloads": 72,
+          "version": 379575
         },
         {
           "date": "2021-11-09",
@@ -1750,14 +1735,24 @@
           "version": 379575
         },
         {
-          "date": "2021-11-10",
-          "downloads": 4,
-          "version": 338594
+          "date": "2021-11-09",
+          "downloads": 38,
+          "version": 448013
+        },
+        {
+          "date": "2021-11-09",
+          "downloads": 1,
+          "version": 446378
+        },
+        {
+          "date": "2021-11-09",
+          "downloads": 1,
+          "version": 445918
         },
         {
           "date": "2021-11-10",
-          "downloads": 58,
-          "version": 379575
+          "downloads": 4,
+          "version": 338594
         },
         {
           "date": "2021-11-10",
@@ -1765,9 +1760,9 @@
           "version": 448013
         },
         {
-          "date": "2021-11-11",
-          "downloads": 26,
-          "version": 338594
+          "date": "2021-11-10",
+          "downloads": 58,
+          "version": 379575
         },
         {
           "date": "2021-11-11",
@@ -1776,12 +1771,12 @@
         },
         {
           "date": "2021-11-11",
-          "downloads": 9,
-          "version": 448013
+          "downloads": 26,
+          "version": 338594
         },
         {
-          "date": "2021-11-12",
-          "downloads": 13,
+          "date": "2021-11-11",
+          "downloads": 9,
           "version": 448013
         },
         {
@@ -1791,8 +1786,18 @@
         },
         {
           "date": "2021-11-12",
+          "downloads": 13,
+          "version": 448013
+        },
+        {
+          "date": "2021-11-12",
           "downloads": 42,
           "version": 379575
+        },
+        {
+          "date": "2021-11-13",
+          "downloads": 3,
+          "version": 448013
         },
         {
           "date": "2021-11-13",
@@ -1800,8 +1805,8 @@
           "version": 379575
         },
         {
-          "date": "2021-11-13",
-          "downloads": 3,
+          "date": "2021-11-14",
+          "downloads": 13,
           "version": 448013
         },
         {
@@ -1815,16 +1820,6 @@
           "version": 338594
         },
         {
-          "date": "2021-11-14",
-          "downloads": 13,
-          "version": 448013
-        },
-        {
-          "date": "2021-11-15",
-          "downloads": 8,
-          "version": 338594
-        },
-        {
           "date": "2021-11-15",
           "downloads": 80,
           "version": 379575
@@ -1833,6 +1828,11 @@
           "date": "2021-11-15",
           "downloads": 71,
           "version": 448013
+        },
+        {
+          "date": "2021-11-15",
+          "downloads": 8,
+          "version": 338594
         },
         {
           "date": "2021-11-16",
@@ -1851,13 +1851,13 @@
         },
         {
           "date": "2021-11-17",
-          "downloads": 97,
-          "version": 379575
+          "downloads": 2,
+          "version": 338594
         },
         {
           "date": "2021-11-17",
-          "downloads": 2,
-          "version": 338594
+          "downloads": 97,
+          "version": 379575
         },
         {
           "date": "2021-11-17",
@@ -1876,18 +1876,8 @@
         },
         {
           "date": "2021-11-19",
-          "downloads": 40,
-          "version": 379575
-        },
-        {
-          "date": "2021-11-19",
           "downloads": 1,
-          "version": 445918
-        },
-        {
-          "date": "2021-11-19",
-          "downloads": 233,
-          "version": 448013
+          "version": 446378
         },
         {
           "date": "2021-11-19",
@@ -1896,23 +1886,33 @@
         },
         {
           "date": "2021-11-19",
-          "downloads": 1,
-          "version": 446378
+          "downloads": 40,
+          "version": 379575
         },
         {
-          "date": "2021-11-20",
-          "downloads": 1,
-          "version": 446378
-        },
-        {
-          "date": "2021-11-20",
-          "downloads": 10,
+          "date": "2021-11-19",
+          "downloads": 233,
           "version": 448013
+        },
+        {
+          "date": "2021-11-19",
+          "downloads": 1,
+          "version": 445918
+        },
+        {
+          "date": "2021-11-20",
+          "downloads": 1,
+          "version": 446378
         },
         {
           "date": "2021-11-20",
           "downloads": 1,
           "version": 445918
+        },
+        {
+          "date": "2021-11-20",
+          "downloads": 10,
+          "version": 448013
         },
         {
           "date": "2021-11-20",
@@ -1931,17 +1931,22 @@
         },
         {
           "date": "2021-11-22",
-          "downloads": 40,
-          "version": 379575
-        },
-        {
-          "date": "2021-11-22",
           "downloads": 3,
           "version": 338594
         },
         {
           "date": "2021-11-22",
+          "downloads": 40,
+          "version": 379575
+        },
+        {
+          "date": "2021-11-22",
           "downloads": 216,
+          "version": 448013
+        },
+        {
+          "date": "2021-11-23",
+          "downloads": 105,
           "version": 448013
         },
         {
@@ -1951,13 +1956,13 @@
         },
         {
           "date": "2021-11-23",
-          "downloads": 105,
-          "version": 448013
-        },
-        {
-          "date": "2021-11-23",
           "downloads": 98,
           "version": 379575
+        },
+        {
+          "date": "2021-11-24",
+          "downloads": 8,
+          "version": 338594
         },
         {
           "date": "2021-11-24",
@@ -1970,8 +1975,8 @@
           "version": 379575
         },
         {
-          "date": "2021-11-24",
-          "downloads": 8,
+          "date": "2021-11-25",
+          "downloads": 1,
           "version": 338594
         },
         {
@@ -1981,17 +1986,7 @@
         },
         {
           "date": "2021-11-25",
-          "downloads": 1,
-          "version": 338594
-        },
-        {
-          "date": "2021-11-25",
           "downloads": 83,
-          "version": 448013
-        },
-        {
-          "date": "2021-11-26",
-          "downloads": 72,
           "version": 448013
         },
         {
@@ -2005,14 +2000,19 @@
           "version": 338594
         },
         {
-          "date": "2021-11-27",
-          "downloads": 11,
-          "version": 379575
+          "date": "2021-11-26",
+          "downloads": 72,
+          "version": 448013
         },
         {
           "date": "2021-11-27",
           "downloads": 24,
           "version": 338594
+        },
+        {
+          "date": "2021-11-27",
+          "downloads": 11,
+          "version": 379575
         },
         {
           "date": "2021-11-27",
@@ -2031,17 +2031,12 @@
         },
         {
           "date": "2021-11-29",
-          "downloads": 46,
-          "version": 379575
-        },
-        {
-          "date": "2021-11-29",
           "downloads": 255,
           "version": 448013
         },
         {
-          "date": "2021-11-30",
-          "downloads": 75,
+          "date": "2021-11-29",
+          "downloads": 46,
           "version": 379575
         },
         {
@@ -2051,12 +2046,12 @@
         },
         {
           "date": "2021-11-30",
-          "downloads": 5,
-          "version": 338594
+          "downloads": 75,
+          "version": 379575
         },
         {
-          "date": "2021-12-01",
-          "downloads": 4,
+          "date": "2021-11-30",
+          "downloads": 5,
           "version": 338594
         },
         {
@@ -2070,9 +2065,9 @@
           "version": 379575
         },
         {
-          "date": "2021-12-02",
-          "downloads": 65,
-          "version": 448013
+          "date": "2021-12-01",
+          "downloads": 4,
+          "version": 338594
         },
         {
           "date": "2021-12-02",
@@ -2080,19 +2075,9 @@
           "version": 379575
         },
         {
-          "date": "2021-12-03",
-          "downloads": 152,
+          "date": "2021-12-02",
+          "downloads": 65,
           "version": 448013
-        },
-        {
-          "date": "2021-12-03",
-          "downloads": 39,
-          "version": 379575
-        },
-        {
-          "date": "2021-12-03",
-          "downloads": 1,
-          "version": 445918
         },
         {
           "date": "2021-12-03",
@@ -2101,8 +2086,23 @@
         },
         {
           "date": "2021-12-03",
+          "downloads": 152,
+          "version": 448013
+        },
+        {
+          "date": "2021-12-03",
           "downloads": 9,
           "version": 338594
+        },
+        {
+          "date": "2021-12-03",
+          "downloads": 1,
+          "version": 445918
+        },
+        {
+          "date": "2021-12-03",
+          "downloads": 39,
+          "version": 379575
         },
         {
           "date": "2021-12-04",
@@ -2121,11 +2121,6 @@
         },
         {
           "date": "2021-12-05",
-          "downloads": 9,
-          "version": 448013
-        },
-        {
-          "date": "2021-12-05",
           "downloads": 12,
           "version": 379575
         },
@@ -2135,9 +2130,14 @@
           "version": 338594
         },
         {
+          "date": "2021-12-05",
+          "downloads": 9,
+          "version": 448013
+        },
+        {
           "date": "2021-12-06",
-          "downloads": 1,
-          "version": 338594
+          "downloads": 204,
+          "version": 448013
         },
         {
           "date": "2021-12-06",
@@ -2146,13 +2146,8 @@
         },
         {
           "date": "2021-12-06",
-          "downloads": 204,
-          "version": 448013
-        },
-        {
-          "date": "2021-12-07",
           "downloads": 1,
-          "version": 445918
+          "version": 338594
         },
         {
           "date": "2021-12-07",
@@ -2166,8 +2161,8 @@
         },
         {
           "date": "2021-12-07",
-          "downloads": 9,
-          "version": 338594
+          "downloads": 1,
+          "version": 445918
         },
         {
           "date": "2021-12-07",
@@ -2175,9 +2170,9 @@
           "version": 448013
         },
         {
-          "date": "2021-12-08",
-          "downloads": 124,
-          "version": 448013
+          "date": "2021-12-07",
+          "downloads": 9,
+          "version": 338594
         },
         {
           "date": "2021-12-08",
@@ -2190,9 +2185,9 @@
           "version": 338594
         },
         {
-          "date": "2021-12-09",
-          "downloads": 4,
-          "version": 338594
+          "date": "2021-12-08",
+          "downloads": 124,
+          "version": 448013
         },
         {
           "date": "2021-12-09",
@@ -2202,6 +2197,16 @@
         {
           "date": "2021-12-09",
           "downloads": 97,
+          "version": 379575
+        },
+        {
+          "date": "2021-12-09",
+          "downloads": 4,
+          "version": 338594
+        },
+        {
+          "date": "2021-12-10",
+          "downloads": 92,
           "version": 379575
         },
         {
@@ -2215,14 +2220,9 @@
           "version": 338594
         },
         {
-          "date": "2021-12-10",
-          "downloads": 92,
-          "version": 379575
-        },
-        {
           "date": "2021-12-11",
-          "downloads": 8,
-          "version": 379575
+          "downloads": 39,
+          "version": 448013
         },
         {
           "date": "2021-12-11",
@@ -2231,8 +2231,13 @@
         },
         {
           "date": "2021-12-11",
-          "downloads": 39,
-          "version": 448013
+          "downloads": 8,
+          "version": 379575
+        },
+        {
+          "date": "2021-12-12",
+          "downloads": 14,
+          "version": 379575
         },
         {
           "date": "2021-12-12",
@@ -2243,11 +2248,6 @@
           "date": "2021-12-12",
           "downloads": 16,
           "version": 338594
-        },
-        {
-          "date": "2021-12-12",
-          "downloads": 14,
-          "version": 379575
         },
         {
           "date": "2021-12-13",
@@ -2261,18 +2261,8 @@
         },
         {
           "date": "2021-12-14",
-          "downloads": 19,
-          "version": 379575
-        },
-        {
-          "date": "2021-12-14",
           "downloads": 5,
           "version": 338594
-        },
-        {
-          "date": "2021-12-14",
-          "downloads": 61,
-          "version": 448013
         },
         {
           "date": "2021-12-14",
@@ -2285,8 +2275,13 @@
           "version": 445918
         },
         {
-          "date": "2021-12-15",
-          "downloads": 85,
+          "date": "2021-12-14",
+          "downloads": 19,
+          "version": 379575
+        },
+        {
+          "date": "2021-12-14",
+          "downloads": 61,
           "version": 448013
         },
         {
@@ -2296,13 +2291,28 @@
         },
         {
           "date": "2021-12-15",
+          "downloads": 85,
+          "version": 448013
+        },
+        {
+          "date": "2021-12-15",
           "downloads": 48,
           "version": 379575
         },
         {
           "date": "2021-12-16",
-          "downloads": 1,
+          "downloads": 27,
           "version": 448013
+        },
+        {
+          "date": "2021-12-16",
+          "downloads": 16,
+          "version": 338594
+        },
+        {
+          "date": "2021-12-16",
+          "downloads": 27,
+          "version": 379575
         }
       ],
       "meta": {
@@ -2665,7 +2675,7 @@
           },
           {
             "date": "2021-12-16",
-            "downloads": 3
+            "downloads": 247
           }
         ]
       }
@@ -2698,7 +2708,7 @@
             "created_at": "2021-06-22T01:00:50.264671Z",
             "updated_at": "2021-06-22T01:00:50.264671Z",
             "dl_path": "/api/v1/crates/ed25519-bip32/0.4.0/download",
-            "downloads": 11765,
+            "downloads": 11779,
             "features": {
               "default": [],
               "with-bench": []
@@ -2727,7 +2737,7 @@
           "dependency": {
             "crate_id": "cryptoxide",
             "default_features": true,
-            "downloads": 72694,
+            "downloads": 72743,
             "features": [],
             "id": 2549640,
             "kind": "normal",
@@ -2745,10 +2755,19 @@
             "dl_path": "/api/v1/crates/dup-crypto/0.58.0/download",
             "downloads": 105,
             "features": {
-              "mnemonic_chinese_traditional": [],
+              "duniter": [],
               "pubkey_check": [
                 "curve25519-dalek"
               ],
+              "mnemonic": [
+                "once_cell"
+              ],
+              "dewif": [
+                "arrayvec",
+                "bip32-ed25519",
+                "mnemonic"
+              ],
+              "mnemonic_chinese_traditional": [],
               "client": [
                 "bip32-ed25519",
                 "dewif",
@@ -2757,11 +2776,26 @@
                 "mnemonic_french",
                 "mnemonic_spanish"
               ],
-              "mnemonic_spanish": [],
-              "mnemonic_japanese": [],
-              "mnemonic_chinese_simplified": [],
-              "mnemonic_french": [],
+              "bip32-ed25519": [
+                "arrayvec",
+                "cryptoxide",
+                "ed25519-bip32",
+                "mnemonic"
+              ],
+              "private_message": [
+                "arrayvec",
+                "chacha20poly1305",
+                "x25519"
+              ],
               "mnemonic_italian": [],
+              "mnemonic_japanese": [],
+              "mnemonic_korean": [],
+              "encrypt_tx_comment": [
+                "cryptoxide",
+                "x25519"
+              ],
+              "mnemonic_spanish": [],
+              "mnemonic_chinese_simplified": [],
               "mnemonic_all_languages": [
                 "mnemonic_chinese_simplified",
                 "mnemonic_chinese_traditional",
@@ -2771,34 +2805,10 @@
                 "mnemonic_korean",
                 "mnemonic_spanish"
               ],
-              "dewif": [
-                "arrayvec",
-                "bip32-ed25519",
-                "mnemonic"
-              ],
-              "encrypt_tx_comment": [
-                "cryptoxide",
-                "x25519"
-              ],
+              "mnemonic_french": [],
               "x25519": [
                 "curve25519-dalek",
                 "pubkey_check"
-              ],
-              "bip32-ed25519": [
-                "arrayvec",
-                "cryptoxide",
-                "ed25519-bip32",
-                "mnemonic"
-              ],
-              "mnemonic": [
-                "once_cell"
-              ],
-              "mnemonic_korean": [],
-              "duniter": [],
-              "private_message": [
-                "arrayvec",
-                "chacha20poly1305",
-                "x25519"
               ]
             },
             "id": 384584,
@@ -2841,7 +2851,7 @@
             "created_at": "2021-10-19T07:43:12.003753Z",
             "updated_at": "2021-10-19T07:43:12.003753Z",
             "dl_path": "/api/v1/crates/curv-kzen/0.9.0/download",
-            "downloads": 2500,
+            "downloads": 2657,
             "features": {
               "default": [
                 "rust-gmp-kzen"
@@ -2871,7 +2881,7 @@
           "dependency": {
             "crate_id": "cryptoxide",
             "default_features": true,
-            "downloads": 5321,
+            "downloads": 5491,
             "features": [],
             "id": 2987195,
             "kind": "normal",
@@ -2889,10 +2899,10 @@
             "dl_path": "/api/v1/crates/sewup/0.1.10/download",
             "downloads": 68,
             "features": {
-              "kv": [],
               "default": [],
-              "debug": [],
+              "kv": [],
               "rdb": [],
+              "debug": [],
               "token": []
             },
             "id": 465388,
@@ -2935,7 +2945,7 @@
             "created_at": "2021-11-07T11:25:15.112296Z",
             "updated_at": "2021-11-07T11:25:15.112296Z",
             "dl_path": "/api/v1/crates/cardano-serialization-lib/9.1.2/download",
-            "downloads": 310,
+            "downloads": 323,
             "features": {},
             "id": 449882,
             "num": "9.1.2",
@@ -2961,7 +2971,7 @@
           "dependency": {
             "crate_id": "cryptoxide",
             "default_features": true,
-            "downloads": 1319,
+            "downloads": 1332,
             "features": [],
             "id": 3080414,
             "kind": "normal",
@@ -2977,12 +2987,12 @@
             "created_at": "2020-02-02T05:27:55.131497Z",
             "updated_at": "2020-02-02T05:27:55.131497Z",
             "dl_path": "/api/v1/crates/handshake-types/0.1.1/download",
-            "downloads": 549,
+            "downloads": 550,
             "features": {
+              "default": [],
               "bloom": [
                 "pds"
-              ],
-              "default": []
+              ]
             },
             "id": 208717,
             "num": "0.1.1",
@@ -3008,7 +3018,7 @@
           "dependency": {
             "crate_id": "cryptoxide",
             "default_features": true,
-            "downloads": 549,
+            "downloads": 550,
             "features": [],
             "id": 1124188,
             "kind": "normal",
@@ -3066,7 +3076,7 @@
             "created_at": "2021-12-15T01:30:27.842387Z",
             "updated_at": "2021-12-15T01:30:27.842387Z",
             "dl_path": "/api/v1/crates/pallas-alonzo/0.3.3/download",
-            "downloads": 42,
+            "downloads": 43,
             "features": {
               "crypto": [
                 "cryptoxide"
@@ -3096,7 +3106,7 @@
           "dependency": {
             "crate_id": "cryptoxide",
             "default_features": true,
-            "downloads": 411,
+            "downloads": 413,
             "features": [],
             "id": 3250169,
             "kind": "normal",
@@ -3112,7 +3122,7 @@
             "created_at": "2021-12-15T01:30:11.081606Z",
             "updated_at": "2021-12-15T01:30:11.081606Z",
             "dl_path": "/api/v1/crates/pallas-chainsync/0.3.3/download",
-            "downloads": 40,
+            "downloads": 41,
             "features": {},
             "id": 468211,
             "num": "0.3.3",
@@ -3138,7 +3148,7 @@
           "dependency": {
             "crate_id": "cryptoxide",
             "default_features": true,
-            "downloads": 345,
+            "downloads": 347,
             "features": [],
             "id": 3250163,
             "kind": "dev",
@@ -3154,7 +3164,7 @@
             "created_at": "2021-12-09T17:32:12.524930Z",
             "updated_at": "2021-12-09T17:32:12.524930Z",
             "dl_path": "/api/v1/crates/keynesis-core/1.0.1/download",
-            "downloads": 82,
+            "downloads": 95,
             "features": {
               "nightly": []
             },
@@ -3182,7 +3192,7 @@
           "dependency": {
             "crate_id": "cryptoxide",
             "default_features": true,
-            "downloads": 237,
+            "downloads": 250,
             "features": [],
             "id": 3226752,
             "kind": "normal",
@@ -3286,9 +3296,43 @@
         "created_at": "2021-11-03T06:53:11.027056Z",
         "updated_at": "2021-11-03T06:53:11.027056Z",
         "dl_path": "/api/v1/crates/cryptoxide/0.3.6/download",
-        "downloads": 3272,
+        "downloads": 3298,
         "features": {
-          "curve25519": [],
+          "scrypt": [
+            "pbkdf2",
+            "mac",
+            "hmac"
+          ],
+          "hmac": [
+            "digest",
+            "mac"
+          ],
+          "sha2": [
+            "digest"
+          ],
+          "poly1305": [
+            "mac"
+          ],
+          "ed25519": [
+            "sha2",
+            "curve25519"
+          ],
+          "hkdf": [
+            "digest",
+            "hmac"
+          ],
+          "sha1": [
+            "digest"
+          ],
+          "blake2": [
+            "digest",
+            "mac"
+          ],
+          "pbkdf2": [
+            "mac"
+          ],
+          "chacha": [],
+          "digest": [],
           "default": [
             "blake2",
             "sha1",
@@ -3304,46 +3348,12 @@
             "curve25519",
             "ed25519"
           ],
-          "digest": [],
-          "pbkdf2": [
-            "mac"
-          ],
-          "with-bench": [],
-          "chacha": [],
-          "salsa": [],
-          "poly1305": [
-            "mac"
-          ],
-          "ed25519": [
-            "sha2",
-            "curve25519"
-          ],
-          "sha1": [
-            "digest"
-          ],
-          "hmac": [
-            "digest",
-            "mac"
-          ],
-          "scrypt": [
-            "pbkdf2",
-            "mac",
-            "hmac"
-          ],
-          "sha2": [
-            "digest"
-          ],
-          "hkdf": [
-            "digest",
-            "hmac"
-          ],
           "sha3": [
             "digest"
           ],
-          "blake2": [
-            "digest",
-            "mac"
-          ],
+          "curve25519": [],
+          "with-bench": [],
+          "salsa": [],
           "mac": [
             "digest"
           ]
@@ -3658,21 +3668,21 @@
         "dl_path": "/api/v1/crates/cuticula/0.2.0/download",
         "downloads": 1060,
         "features": {
-          "lint": [
-            "clippy"
-          ],
-          "native": [],
           "default": [
             "native"
           ],
           "travis": [],
-          "cuda": [
-            "collenchyma/cuda"
-          ],
+          "native": [],
           "opencl": [
             "collenchyma/opencl"
           ],
-          "dev": []
+          "cuda": [
+            "collenchyma/cuda"
+          ],
+          "dev": [],
+          "lint": [
+            "clippy"
+          ]
         },
         "id": 25799,
         "num": "0.2.0",
@@ -4078,7 +4088,7 @@
       },
       {
         "category": "Encoding",
-        "crates_cnt": 1272,
+        "crates_cnt": 1275,
         "created_at": "2017-01-17T19:13:05.112025Z",
         "description": "Encoding and/or decoding data from one data format to another.",
         "id": "encoding",
@@ -4392,10 +4402,10 @@
             "dl_path": "/api/v1/crates/unshield/0.2.0/download",
             "downloads": 72,
             "features": {
+              "default": [],
               "async": [
                 "futures-lite"
-              ],
-              "default": []
+              ]
             },
             "id": 275689,
             "num": "0.2.0",
@@ -4480,14 +4490,14 @@
     "documentation": "https://docs.rs/fast-float",
     "homepage": null,
     "repository": "https://github.com/aldanor/fast-float-rust",
-    "total_downloads": 87591,
+    "total_downloads": 87684,
     "max_version": "0.2.0",
     "created_at": "2021-01-10T01:48:58.289179Z",
     "updated_at": "2021-01-13T16:57:12.236999Z",
     "categories": [
       {
         "category": "No standard library",
-        "crates_cnt": 3188,
+        "crates_cnt": 3189,
         "created_at": "2017-02-10T01:52:09.447906Z",
         "description": "Crates that are able to function without the Rust standard library.\n",
         "id": "no-std",
@@ -4495,7 +4505,7 @@
       },
       {
         "category": "Algorithms",
-        "crates_cnt": 1386,
+        "crates_cnt": 1387,
         "created_at": "2017-01-17T19:13:05.112025Z",
         "description": "Rust implementations of core algorithms such as hashing, sorting, searching, and more.",
         "id": "algorithms",
@@ -5167,7 +5177,7 @@
         },
         {
           "date": "2021-12-16",
-          "downloads": 8,
+          "downloads": 100,
           "version": 326959
         }
       ],
@@ -5191,22 +5201,22 @@
         {
           "crate_version": {
             "crate": "decimal-rs",
-            "created_at": "2021-12-14T07:10:14.168680Z",
-            "updated_at": "2021-12-14T07:10:14.168680Z",
-            "dl_path": "/api/v1/crates/decimal-rs/0.1.25/download",
-            "downloads": 51,
+            "created_at": "2021-12-16T08:49:02.168140Z",
+            "updated_at": "2021-12-16T08:49:02.168140Z",
+            "dl_path": "/api/v1/crates/decimal-rs/0.1.26/download",
+            "downloads": 15,
             "features": {},
-            "id": 467843,
-            "num": "0.1.25",
+            "id": 469160,
+            "num": "0.1.26",
             "yanked": false,
             "license": "Apache-2.0",
-            "readme_path": "/api/v1/crates/decimal-rs/0.1.25/readme",
+            "readme_path": "/api/v1/crates/decimal-rs/0.1.26/readme",
             "links": {
-              "authors": "/api/v1/crates/decimal-rs/0.1.25/authors",
-              "dependencies": "/api/v1/crates/decimal-rs/0.1.25/dependencies",
-              "version_downloads": "/api/v1/crates/decimal-rs/0.1.25/downloads"
+              "authors": "/api/v1/crates/decimal-rs/0.1.26/authors",
+              "dependencies": "/api/v1/crates/decimal-rs/0.1.26/dependencies",
+              "version_downloads": "/api/v1/crates/decimal-rs/0.1.26/downloads"
             },
-            "crate_size": 46922,
+            "crate_size": 47056,
             "published_by": {
               "avatar": "https://avatars.githubusercontent.com/u/6303766?v=4",
               "email": null,
@@ -5220,14 +5230,14 @@
           "dependency": {
             "crate_id": "fast-float",
             "default_features": true,
-            "downloads": 14777,
+            "downloads": 14836,
             "features": [],
-            "id": 3246261,
+            "id": 3261792,
             "kind": "normal",
             "optional": false,
             "req": "^0.2.0",
             "target": null,
-            "version_id": 467843
+            "version_id": 469160
           }
         },
         {
@@ -5238,20 +5248,20 @@
             "dl_path": "/api/v1/crates/kserd/0.5.0/download",
             "downloads": 359,
             "features": {
-              "format": [
-                "base91"
-              ],
               "default": [
                 "encode",
                 "format",
                 "parse"
               ],
-              "encode": [
-                "serde"
-              ],
               "parse": [
                 "base91",
                 "nom"
+              ],
+              "encode": [
+                "serde"
+              ],
+              "format": [
+                "base91"
               ]
             },
             "id": 353978,
@@ -5278,7 +5288,7 @@
           "dependency": {
             "crate_id": "fast-float",
             "default_features": true,
-            "downloads": 8894,
+            "downloads": 8900,
             "features": [],
             "id": 2229938,
             "kind": "normal",
@@ -5296,13 +5306,13 @@
             "dl_path": "/api/v1/crates/Boa/0.13.0/download",
             "downloads": 195,
             "features": {
-              "vm": [],
-              "deser": [],
               "profiler": [
                 "measureme",
                 "once_cell"
               ],
-              "console": []
+              "console": [],
+              "vm": [],
+              "deser": []
             },
             "id": 432149,
             "num": "0.13.0",
@@ -5328,7 +5338,7 @@
           "dependency": {
             "crate_id": "fast-float",
             "default_features": true,
-            "downloads": 6785,
+            "downloads": 6787,
             "features": [],
             "id": 2914157,
             "kind": "normal",
@@ -5344,7 +5354,7 @@
             "created_at": "2021-12-12T17:21:46.053031Z",
             "updated_at": "2021-12-12T17:21:46.053031Z",
             "dl_path": "/api/v1/crates/graph/0.1.6/download",
-            "downloads": 23,
+            "downloads": 24,
             "features": {},
             "id": 466955,
             "num": "0.1.6",
@@ -5370,7 +5380,7 @@
           "dependency": {
             "crate_id": "fast-float",
             "default_features": true,
-            "downloads": 2594,
+            "downloads": 2596,
             "features": [],
             "id": 3238208,
             "kind": "normal",
@@ -5416,7 +5426,7 @@
           "dependency": {
             "crate_id": "fast-float",
             "default_features": true,
-            "downloads": 1499,
+            "downloads": 1500,
             "features": [],
             "id": 2643842,
             "kind": "normal",
@@ -5474,7 +5484,7 @@
             "created_at": "2021-09-26T18:57:13.269378Z",
             "updated_at": "2021-09-26T18:57:13.269378Z",
             "dl_path": "/api/v1/crates/lta_models/0.3.0/download",
-            "downloads": 363,
+            "downloads": 364,
             "features": {
               "fastfloat": [
                 "fast-float"
@@ -5504,7 +5514,7 @@
           "dependency": {
             "crate_id": "fast-float",
             "default_features": true,
-            "downloads": 1320,
+            "downloads": 1322,
             "features": [],
             "id": 2894474,
             "kind": "normal",
@@ -5522,20 +5532,20 @@
             "dl_path": "/api/v1/crates/frawk/0.4.4/download",
             "downloads": 111,
             "features": {
-              "llvm_backend": [
-                "llvm-sys"
-              ],
               "unstable": [],
               "use_jemalloc": [
                 "jemallocator"
               ],
+              "allow_avx2": [],
               "default": [
                 "use_jemalloc",
                 "allow_avx2",
                 "llvm_backend",
                 "unstable"
               ],
-              "allow_avx2": []
+              "llvm_backend": [
+                "llvm-sys"
+              ]
             },
             "id": 423342,
             "num": "0.4.4",
@@ -5561,7 +5571,7 @@
           "dependency": {
             "crate_id": "fast-float",
             "default_features": true,
-            "downloads": 740,
+            "downloads": 742,
             "features": [],
             "id": 2827596,
             "kind": "normal",
@@ -5661,7 +5671,7 @@
             "created_at": "2021-05-28T14:03:18.135954Z",
             "updated_at": "2021-05-28T14:03:18.135954Z",
             "dl_path": "/api/v1/crates/iso-10303/0.5.0/download",
-            "downloads": 113,
+            "downloads": 114,
             "features": {
               "gencode": [
                 "quote",
@@ -5697,7 +5707,7 @@
           "dependency": {
             "crate_id": "fast-float",
             "default_features": true,
-            "downloads": 607,
+            "downloads": 608,
             "features": [],
             "id": 2468390,
             "kind": "normal",
@@ -5759,7 +5769,7 @@
         "created_at": "2021-01-13T16:57:12.236999Z",
         "updated_at": "2021-01-13T16:57:12.236999Z",
         "dl_path": "/api/v1/crates/fast-float/0.2.0/download",
-        "downloads": 86435,
+        "downloads": 86528,
         "features": {
           "std": [],
           "default": [
@@ -6761,7 +6771,7 @@
     "categories": [
       {
         "category": "Algorithms",
-        "crates_cnt": 1386,
+        "crates_cnt": 1387,
         "created_at": "2017-01-17T19:13:05.112025Z",
         "description": "Rust implementations of core algorithms such as hashing, sorting, searching, and more.",
         "id": "algorithms",
@@ -7634,17 +7644,17 @@
         "dl_path": "/api/v1/crates/greenglas/0.3.0/download",
         "downloads": 22,
         "features": {
-          "native": [],
-          "opencl": [
-            "coaster/opencl"
+          "cuda": [
+            "coaster/cuda"
           ],
           "default": [
             "native",
             "cuda"
           ],
-          "cuda": [
-            "coaster/cuda"
-          ]
+          "opencl": [
+            "coaster/opencl"
+          ],
+          "native": []
         },
         "id": 456541,
         "num": "0.3.0",
@@ -7824,10 +7834,10 @@
         "dl_path": "/api/v1/crates/hashdeep-compare/0.4.0/download",
         "downloads": 43,
         "features": {
+          "integration_test_coverage": [],
           "integration_test_helpful_outputs": [
             "walkdir"
-          ],
-          "integration_test_coverage": []
+          ]
         },
         "id": 378506,
         "num": "0.4.0",
@@ -7974,14 +7984,14 @@
     "documentation": null,
     "homepage": "https://github.com/tmmcguire/hashers",
     "repository": "https://github.com/tmmcguire/hashers",
-    "total_downloads": 5640,
+    "total_downloads": 5645,
     "max_version": "1.0.1",
     "created_at": "2018-08-06T02:49:25.600763Z",
     "updated_at": "2018-10-10T23:02:34.164138Z",
     "categories": [
       {
         "category": "Algorithms",
-        "crates_cnt": 1386,
+        "crates_cnt": 1387,
         "created_at": "2017-01-17T19:13:05.112025Z",
         "description": "Rust implementations of core algorithms such as hashing, sorting, searching, and more.",
         "id": "algorithms",
@@ -8391,13 +8401,13 @@
         },
         {
           "date": "2021-12-03",
-          "downloads": 1,
-          "version": 102545
+          "downloads": 6,
+          "version": 111836
         },
         {
           "date": "2021-12-03",
-          "downloads": 6,
-          "version": 111836
+          "downloads": 1,
+          "version": 102545
         },
         {
           "date": "2021-12-04",
@@ -8463,6 +8473,11 @@
           "date": "2021-12-15",
           "downloads": 7,
           "version": 111836
+        },
+        {
+          "date": "2021-12-16",
+          "downloads": 5,
+          "version": 111836
         }
       ],
       "meta": {
@@ -8488,12 +8503,12 @@
             "created_at": "2020-05-10T21:46:14.295076Z",
             "updated_at": "2020-05-10T21:46:14.295076Z",
             "dl_path": "/api/v1/crates/hash-chain/0.3.2/download",
-            "downloads": 628,
+            "downloads": 629,
             "features": {
+              "default": [],
               "imutable": [
                 "im-rc"
-              ],
-              "default": []
+              ]
             },
             "id": 239856,
             "num": "0.3.2",
@@ -8519,7 +8534,7 @@
           "dependency": {
             "crate_id": "hashers",
             "default_features": true,
-            "downloads": 2243,
+            "downloads": 2244,
             "features": [],
             "id": 1355038,
             "kind": "dev",
@@ -8715,7 +8730,7 @@
             "created_at": "2020-03-02T19:57:54.007162Z",
             "updated_at": "2020-03-02T19:57:54.007162Z",
             "dl_path": "/api/v1/crates/nametag/0.0.1/download",
-            "downloads": 256,
+            "downloads": 257,
             "features": {
               "std": [],
               "default": [
@@ -8746,7 +8761,7 @@
           "dependency": {
             "crate_id": "hashers",
             "default_features": true,
-            "downloads": 256,
+            "downloads": 257,
             "features": [],
             "id": 1191069,
             "kind": "normal",
@@ -8808,7 +8823,7 @@
         "created_at": "2018-10-10T23:02:34.164138Z",
         "updated_at": "2018-10-10T23:02:34.164138Z",
         "dl_path": "/api/v1/crates/hashers/1.0.1/download",
-        "downloads": 5319,
+        "downloads": 5324,
         "features": {},
         "id": 111836,
         "num": "1.0.1",
@@ -9406,9 +9421,6 @@
             "dl_path": "/api/v1/crates/icu/0.4.0/download",
             "downloads": 35,
             "features": {
-              "default": [
-                "provider_serde"
-              ],
               "std": [
                 "icu_datetime/std",
                 "icu_locid/std",
@@ -9416,15 +9428,18 @@
                 "icu_properties/std",
                 "fixed_decimal/std"
               ],
-              "serde": [
-                "icu_locid/serde"
-              ],
               "provider_serde": [
                 "icu_datetime/provider_serde",
                 "icu_decimal/provider_serde",
                 "icu_locale_canonicalizer/provider_serde",
                 "icu_plurals/provider_serde",
                 "icu_properties/provider_serde"
+              ],
+              "default": [
+                "provider_serde"
+              ],
+              "serde": [
+                "icu_locid/serde"
               ]
             },
             "id": 447537,
@@ -9469,7 +9484,17 @@
             "dl_path": "/api/v1/crates/icu_datetime/0.4.0/download",
             "downloads": 37,
             "features": {
-              "bench": [],
+              "std": [
+                "icu_provider/std",
+                "icu_locid/std",
+                "icu_calendar/std"
+              ],
+              "default": [
+                "provider_serde"
+              ],
+              "provider_transform_internals": [
+                "std"
+              ],
               "provider_serde": [
                 "serde",
                 "litemap/serde",
@@ -9478,17 +9503,7 @@
                 "zerovec/serde",
                 "tinystr/serde"
               ],
-              "provider_transform_internals": [
-                "std"
-              ],
-              "default": [
-                "provider_serde"
-              ],
-              "std": [
-                "icu_provider/std",
-                "icu_locid/std",
-                "icu_calendar/std"
-              ]
+              "bench": []
             },
             "id": 447536,
             "num": "0.4.0",
@@ -9514,7 +9529,7 @@
           "dependency": {
             "crate_id": "icu_plurals",
             "default_features": true,
-            "downloads": 1002,
+            "downloads": 1003,
             "features": [],
             "id": 3059938,
             "kind": "normal",
@@ -9589,14 +9604,14 @@
           "default": [
             "provider_serde"
           ],
-          "provider_serde": [
-            "serde"
-          ],
           "std": [
             "icu_locid/std",
             "icu_provider/std"
           ],
-          "bench": []
+          "bench": [],
+          "provider_serde": [
+            "serde"
+          ]
         },
         "id": 447531,
         "num": "0.4.0",
@@ -9795,7 +9810,7 @@
     "categories": [
       {
         "category": "Algorithms",
-        "crates_cnt": 1386,
+        "crates_cnt": 1387,
         "created_at": "2017-01-17T19:13:05.112025Z",
         "description": "Rust implementations of core algorithms such as hashing, sorting, searching, and more.",
         "id": "algorithms",
@@ -9811,7 +9826,7 @@
       },
       {
         "category": "Data structures",
-        "crates_cnt": 1850,
+        "crates_cnt": 1851,
         "created_at": "2017-01-17T19:13:05.112025Z",
         "description": "Rust implementations of particular ways of organizing data suited for specific purposes.",
         "id": "data-structures",
@@ -9996,12 +10011,12 @@
         "dl_path": "/api/v1/crates/lfchring/0.1.3/download",
         "downloads": 81,
         "features": {
-          "blake3-hash": [
-            "blake3"
-          ],
           "default": [],
           "blake2b-hash": [
             "blake2b_simd"
+          ],
+          "blake3-hash": [
+            "blake3"
           ]
         },
         "id": 346705,
@@ -10125,14 +10140,14 @@
     "documentation": null,
     "homepage": null,
     "repository": "https://github.com/rust-ml/linfa",
-    "total_downloads": 19861,
+    "total_downloads": 19897,
     "max_version": "0.5.0",
     "created_at": "2018-04-05T07:23:01.465608Z",
     "updated_at": "2021-10-21T14:16:54.421806Z",
     "categories": [
       {
         "category": "Algorithms",
-        "crates_cnt": 1386,
+        "crates_cnt": 1387,
         "created_at": "2017-01-17T19:13:05.112025Z",
         "description": "Rust implementations of core algorithms such as hashing, sorting, searching, and more.",
         "id": "algorithms",
@@ -10210,13 +10225,13 @@
         },
         {
           "date": "2021-09-20",
-          "downloads": 7,
-          "version": 350622
+          "downloads": 10,
+          "version": 372170
         },
         {
           "date": "2021-09-20",
-          "downloads": 10,
-          "version": 372170
+          "downloads": 7,
+          "version": 350622
         },
         {
           "date": "2021-09-21",
@@ -10225,16 +10240,11 @@
         },
         {
           "date": "2021-09-21",
-          "downloads": 1,
-          "version": 310288
-        },
-        {
-          "date": "2021-09-21",
           "downloads": 8,
           "version": 372170
         },
         {
-          "date": "2021-09-22",
+          "date": "2021-09-21",
           "downloads": 1,
           "version": 310288
         },
@@ -10249,9 +10259,9 @@
           "version": 350622
         },
         {
-          "date": "2021-09-23",
-          "downloads": 19,
-          "version": 372170
+          "date": "2021-09-22",
+          "downloads": 1,
+          "version": 310288
         },
         {
           "date": "2021-09-23",
@@ -10259,8 +10269,8 @@
           "version": 350622
         },
         {
-          "date": "2021-09-24",
-          "downloads": 14,
+          "date": "2021-09-23",
+          "downloads": 19,
           "version": 372170
         },
         {
@@ -10269,14 +10279,19 @@
           "version": 350622
         },
         {
-          "date": "2021-09-25",
-          "downloads": 1,
+          "date": "2021-09-24",
+          "downloads": 14,
           "version": 372170
         },
         {
           "date": "2021-09-25",
           "downloads": 50,
           "version": 350622
+        },
+        {
+          "date": "2021-09-25",
+          "downloads": 1,
+          "version": 372170
         },
         {
           "date": "2021-09-26",
@@ -10295,18 +10310,18 @@
         },
         {
           "date": "2021-09-27",
-          "downloads": 54,
-          "version": 350622
-        },
-        {
-          "date": "2021-09-27",
           "downloads": 20,
           "version": 372170
         },
         {
-          "date": "2021-09-28",
-          "downloads": 89,
+          "date": "2021-09-27",
+          "downloads": 54,
           "version": 350622
+        },
+        {
+          "date": "2021-09-28",
+          "downloads": 1,
+          "version": 310288
         },
         {
           "date": "2021-09-28",
@@ -10315,12 +10330,7 @@
         },
         {
           "date": "2021-09-28",
-          "downloads": 1,
-          "version": 310288
-        },
-        {
-          "date": "2021-09-29",
-          "downloads": 113,
+          "downloads": 89,
           "version": 350622
         },
         {
@@ -10330,7 +10340,17 @@
         },
         {
           "date": "2021-09-29",
+          "downloads": 113,
+          "version": 350622
+        },
+        {
+          "date": "2021-09-29",
           "downloads": 1,
+          "version": 310288
+        },
+        {
+          "date": "2021-09-30",
+          "downloads": 2,
           "version": 310288
         },
         {
@@ -10347,11 +10367,6 @@
           "date": "2021-09-30",
           "downloads": 129,
           "version": 350622
-        },
-        {
-          "date": "2021-09-30",
-          "downloads": 2,
-          "version": 310288
         },
         {
           "date": "2021-10-01",
@@ -10385,20 +10400,20 @@
         },
         {
           "date": "2021-10-05",
-          "downloads": 2,
-          "version": 310288
-        },
-        {
-          "date": "2021-10-05",
-          "downloads": 27,
-          "version": 372170
-        },
-        {
-          "date": "2021-10-05",
           "downloads": 107,
           "version": 350622
         },
         {
+          "date": "2021-10-05",
+          "downloads": 27,
+          "version": 372170
+        },
+        {
+          "date": "2021-10-05",
+          "downloads": 2,
+          "version": 310288
+        },
+        {
           "date": "2021-10-06",
           "downloads": 27,
           "version": 372170
@@ -10406,6 +10421,11 @@
         {
           "date": "2021-10-06",
           "downloads": 107,
+          "version": 350622
+        },
+        {
+          "date": "2021-10-07",
+          "downloads": 86,
           "version": 350622
         },
         {
@@ -10417,11 +10437,6 @@
           "date": "2021-10-07",
           "downloads": 2,
           "version": 310288
-        },
-        {
-          "date": "2021-10-07",
-          "downloads": 86,
-          "version": 350622
         },
         {
           "date": "2021-10-08",
@@ -10440,13 +10455,13 @@
         },
         {
           "date": "2021-10-09",
-          "downloads": 1,
-          "version": 372170
+          "downloads": 6,
+          "version": 350622
         },
         {
           "date": "2021-10-09",
-          "downloads": 6,
-          "version": 350622
+          "downloads": 1,
+          "version": 372170
         },
         {
           "date": "2021-10-10",
@@ -10455,18 +10470,13 @@
         },
         {
           "date": "2021-10-11",
-          "downloads": 211,
-          "version": 350622
-        },
-        {
-          "date": "2021-10-11",
           "downloads": 54,
           "version": 372170
         },
         {
-          "date": "2021-10-12",
-          "downloads": 14,
-          "version": 372170
+          "date": "2021-10-11",
+          "downloads": 211,
+          "version": 350622
         },
         {
           "date": "2021-10-12",
@@ -10474,8 +10484,8 @@
           "version": 350622
         },
         {
-          "date": "2021-10-13",
-          "downloads": 33,
+          "date": "2021-10-12",
+          "downloads": 14,
           "version": 372170
         },
         {
@@ -10484,14 +10494,9 @@
           "version": 350622
         },
         {
-          "date": "2021-10-14",
-          "downloads": 35,
+          "date": "2021-10-13",
+          "downloads": 33,
           "version": 372170
-        },
-        {
-          "date": "2021-10-14",
-          "downloads": 1,
-          "version": 310288
         },
         {
           "date": "2021-10-14",
@@ -10504,14 +10509,24 @@
           "version": 350622
         },
         {
-          "date": "2021-10-15",
-          "downloads": 61,
-          "version": 350622
+          "date": "2021-10-14",
+          "downloads": 1,
+          "version": 310288
+        },
+        {
+          "date": "2021-10-14",
+          "downloads": 35,
+          "version": 372170
         },
         {
           "date": "2021-10-15",
           "downloads": 29,
           "version": 372170
+        },
+        {
+          "date": "2021-10-15",
+          "downloads": 61,
+          "version": 350622
         },
         {
           "date": "2021-10-16",
@@ -10565,6 +10580,11 @@
         },
         {
           "date": "2021-10-21",
+          "downloads": 11,
+          "version": 440998
+        },
+        {
+          "date": "2021-10-21",
           "downloads": 18,
           "version": 372170
         },
@@ -10574,14 +10594,9 @@
           "version": 350622
         },
         {
-          "date": "2021-10-21",
-          "downloads": 11,
-          "version": 440998
-        },
-        {
           "date": "2021-10-22",
-          "downloads": 145,
-          "version": 350622
+          "downloads": 40,
+          "version": 372170
         },
         {
           "date": "2021-10-22",
@@ -10590,8 +10605,8 @@
         },
         {
           "date": "2021-10-22",
-          "downloads": 40,
-          "version": 372170
+          "downloads": 145,
+          "version": 350622
         },
         {
           "date": "2021-10-23",
@@ -10602,11 +10617,6 @@
           "date": "2021-10-23",
           "downloads": 2,
           "version": 440998
-        },
-        {
-          "date": "2021-10-24",
-          "downloads": 1,
-          "version": 372170
         },
         {
           "date": "2021-10-24",
@@ -10615,12 +10625,12 @@
         },
         {
           "date": "2021-10-24",
-          "downloads": 2,
-          "version": 440998
+          "downloads": 1,
+          "version": 372170
         },
         {
-          "date": "2021-10-25",
-          "downloads": 1,
+          "date": "2021-10-24",
+          "downloads": 2,
           "version": 440998
         },
         {
@@ -10630,7 +10640,17 @@
         },
         {
           "date": "2021-10-25",
+          "downloads": 1,
+          "version": 440998
+        },
+        {
+          "date": "2021-10-25",
           "downloads": 216,
+          "version": 350622
+        },
+        {
+          "date": "2021-10-26",
+          "downloads": 32,
           "version": 350622
         },
         {
@@ -10640,17 +10660,7 @@
         },
         {
           "date": "2021-10-26",
-          "downloads": 32,
-          "version": 350622
-        },
-        {
-          "date": "2021-10-26",
           "downloads": 3,
-          "version": 440998
-        },
-        {
-          "date": "2021-10-27",
-          "downloads": 8,
           "version": 440998
         },
         {
@@ -10664,14 +10674,14 @@
           "version": 350622
         },
         {
-          "date": "2021-10-28",
-          "downloads": 12,
-          "version": 372170
+          "date": "2021-10-27",
+          "downloads": 8,
+          "version": 440998
         },
         {
           "date": "2021-10-28",
-          "downloads": 3,
-          "version": 440998
+          "downloads": 12,
+          "version": 372170
         },
         {
           "date": "2021-10-28",
@@ -10679,7 +10689,7 @@
           "version": 350622
         },
         {
-          "date": "2021-10-29",
+          "date": "2021-10-28",
           "downloads": 3,
           "version": 440998
         },
@@ -10694,9 +10704,14 @@
           "version": 350622
         },
         {
-          "date": "2021-10-30",
-          "downloads": 2,
+          "date": "2021-10-29",
+          "downloads": 3,
           "version": 440998
+        },
+        {
+          "date": "2021-10-30",
+          "downloads": 1,
+          "version": 310288
         },
         {
           "date": "2021-10-30",
@@ -10705,8 +10720,8 @@
         },
         {
           "date": "2021-10-30",
-          "downloads": 1,
-          "version": 310288
+          "downloads": 2,
+          "version": 440998
         },
         {
           "date": "2021-10-31",
@@ -10715,13 +10730,13 @@
         },
         {
           "date": "2021-10-31",
-          "downloads": 2,
-          "version": 372170
+          "downloads": 7,
+          "version": 350622
         },
         {
           "date": "2021-10-31",
-          "downloads": 7,
-          "version": 350622
+          "downloads": 2,
+          "version": 372170
         },
         {
           "date": "2021-11-01",
@@ -10730,23 +10745,23 @@
         },
         {
           "date": "2021-11-01",
-          "downloads": 4,
-          "version": 372170
-        },
-        {
-          "date": "2021-11-01",
           "downloads": 55,
           "version": 350622
         },
         {
-          "date": "2021-11-02",
-          "downloads": 138,
-          "version": 350622
+          "date": "2021-11-01",
+          "downloads": 4,
+          "version": 372170
         },
         {
           "date": "2021-11-02",
           "downloads": 5,
           "version": 372170
+        },
+        {
+          "date": "2021-11-02",
+          "downloads": 138,
+          "version": 350622
         },
         {
           "date": "2021-11-02",
@@ -10765,8 +10780,8 @@
         },
         {
           "date": "2021-11-04",
-          "downloads": 2,
-          "version": 440998
+          "downloads": 11,
+          "version": 372170
         },
         {
           "date": "2021-11-04",
@@ -10775,13 +10790,18 @@
         },
         {
           "date": "2021-11-04",
-          "downloads": 11,
-          "version": 372170
+          "downloads": 47,
+          "version": 350622
         },
         {
           "date": "2021-11-04",
-          "downloads": 47,
-          "version": 350622
+          "downloads": 2,
+          "version": 440998
+        },
+        {
+          "date": "2021-11-05",
+          "downloads": 2,
+          "version": 310288
         },
         {
           "date": "2021-11-05",
@@ -10790,28 +10810,23 @@
         },
         {
           "date": "2021-11-05",
-          "downloads": 10,
-          "version": 372170
-        },
-        {
-          "date": "2021-11-05",
-          "downloads": 2,
-          "version": 310288
-        },
-        {
-          "date": "2021-11-05",
           "downloads": 55,
           "version": 350622
         },
         {
-          "date": "2021-11-06",
-          "downloads": 1,
+          "date": "2021-11-05",
+          "downloads": 10,
           "version": 372170
         },
         {
           "date": "2021-11-06",
           "downloads": 1,
           "version": 310288
+        },
+        {
+          "date": "2021-11-06",
+          "downloads": 1,
+          "version": 372170
         },
         {
           "date": "2021-11-06",
@@ -10825,28 +10840,18 @@
         },
         {
           "date": "2021-11-07",
-          "downloads": 1,
-          "version": 329812
+          "downloads": 2,
+          "version": 440998
         },
         {
           "date": "2021-11-07",
-          "downloads": 2,
-          "version": 440998
+          "downloads": 1,
+          "version": 329812
         },
         {
           "date": "2021-11-08",
           "downloads": 1,
           "version": 310288
-        },
-        {
-          "date": "2021-11-08",
-          "downloads": 3,
-          "version": 440998
-        },
-        {
-          "date": "2021-11-08",
-          "downloads": 1,
-          "version": 329812
         },
         {
           "date": "2021-11-08",
@@ -10855,18 +10860,28 @@
         },
         {
           "date": "2021-11-08",
+          "downloads": 3,
+          "version": 440998
+        },
+        {
+          "date": "2021-11-08",
           "downloads": 5,
           "version": 372170
+        },
+        {
+          "date": "2021-11-08",
+          "downloads": 1,
+          "version": 329812
+        },
+        {
+          "date": "2021-11-09",
+          "downloads": 1,
+          "version": 329812
         },
         {
           "date": "2021-11-09",
           "downloads": 1,
           "version": 310288
-        },
-        {
-          "date": "2021-11-09",
-          "downloads": 1,
-          "version": 440998
         },
         {
           "date": "2021-11-09",
@@ -10876,16 +10891,11 @@
         {
           "date": "2021-11-09",
           "downloads": 1,
-          "version": 329812
+          "version": 440998
         },
         {
           "date": "2021-11-09",
           "downloads": 6,
-          "version": 372170
-        },
-        {
-          "date": "2021-11-10",
-          "downloads": 15,
           "version": 372170
         },
         {
@@ -10895,13 +10905,18 @@
         },
         {
           "date": "2021-11-10",
+          "downloads": 15,
+          "version": 372170
+        },
+        {
+          "date": "2021-11-10",
           "downloads": 2,
           "version": 440998
         },
         {
           "date": "2021-11-11",
-          "downloads": 44,
-          "version": 372170
+          "downloads": 22,
+          "version": 350622
         },
         {
           "date": "2021-11-11",
@@ -10910,8 +10925,13 @@
         },
         {
           "date": "2021-11-11",
-          "downloads": 22,
-          "version": 350622
+          "downloads": 44,
+          "version": 372170
+        },
+        {
+          "date": "2021-11-12",
+          "downloads": 4,
+          "version": 440998
         },
         {
           "date": "2021-11-12",
@@ -10922,11 +10942,6 @@
           "date": "2021-11-12",
           "downloads": 7,
           "version": 372170
-        },
-        {
-          "date": "2021-11-12",
-          "downloads": 4,
-          "version": 440998
         },
         {
           "date": "2021-11-13",
@@ -10945,18 +10960,13 @@
         },
         {
           "date": "2021-11-14",
-          "downloads": 1,
-          "version": 310288
-        },
-        {
-          "date": "2021-11-14",
           "downloads": 9,
           "version": 350622
         },
         {
-          "date": "2021-11-15",
-          "downloads": 83,
-          "version": 350622
+          "date": "2021-11-14",
+          "downloads": 1,
+          "version": 310288
         },
         {
           "date": "2021-11-15",
@@ -10967,6 +10977,11 @@
           "date": "2021-11-15",
           "downloads": 2,
           "version": 440998
+        },
+        {
+          "date": "2021-11-15",
+          "downloads": 83,
+          "version": 350622
         },
         {
           "date": "2021-11-16",
@@ -10980,6 +10995,11 @@
         },
         {
           "date": "2021-11-17",
+          "downloads": 4,
+          "version": 372170
+        },
+        {
+          "date": "2021-11-17",
           "downloads": 49,
           "version": 350622
         },
@@ -10989,14 +11009,14 @@
           "version": 440998
         },
         {
-          "date": "2021-11-17",
+          "date": "2021-11-18",
           "downloads": 4,
           "version": 372170
         },
         {
           "date": "2021-11-18",
-          "downloads": 4,
-          "version": 372170
+          "downloads": 30,
+          "version": 350622
         },
         {
           "date": "2021-11-18",
@@ -11004,9 +11024,9 @@
           "version": 440998
         },
         {
-          "date": "2021-11-18",
-          "downloads": 30,
-          "version": 350622
+          "date": "2021-11-19",
+          "downloads": 3,
+          "version": 372170
         },
         {
           "date": "2021-11-19",
@@ -11015,18 +11035,8 @@
         },
         {
           "date": "2021-11-19",
-          "downloads": 3,
-          "version": 372170
-        },
-        {
-          "date": "2021-11-19",
           "downloads": 1,
           "version": 440998
-        },
-        {
-          "date": "2021-11-20",
-          "downloads": 3,
-          "version": 350622
         },
         {
           "date": "2021-11-20",
@@ -11039,13 +11049,23 @@
           "version": 440998
         },
         {
+          "date": "2021-11-20",
+          "downloads": 3,
+          "version": 350622
+        },
+        {
+          "date": "2021-11-21",
+          "downloads": 9,
+          "version": 350622
+        },
+        {
           "date": "2021-11-21",
           "downloads": 2,
           "version": 440998
         },
         {
-          "date": "2021-11-21",
-          "downloads": 9,
+          "date": "2021-11-22",
+          "downloads": 83,
           "version": 350622
         },
         {
@@ -11059,11 +11079,6 @@
           "version": 440998
         },
         {
-          "date": "2021-11-22",
-          "downloads": 83,
-          "version": 350622
-        },
-        {
           "date": "2021-11-23",
           "downloads": 158,
           "version": 440998
@@ -11071,12 +11086,17 @@
         {
           "date": "2021-11-23",
           "downloads": 3,
-          "version": 350622
+          "version": 372170
         },
         {
           "date": "2021-11-23",
           "downloads": 3,
-          "version": 372170
+          "version": 350622
+        },
+        {
+          "date": "2021-11-24",
+          "downloads": 83,
+          "version": 350622
         },
         {
           "date": "2021-11-24",
@@ -11086,16 +11106,6 @@
         {
           "date": "2021-11-24",
           "downloads": 24,
-          "version": 372170
-        },
-        {
-          "date": "2021-11-24",
-          "downloads": 83,
-          "version": 350622
-        },
-        {
-          "date": "2021-11-25",
-          "downloads": 5,
           "version": 372170
         },
         {
@@ -11109,6 +11119,16 @@
           "version": 440998
         },
         {
+          "date": "2021-11-25",
+          "downloads": 5,
+          "version": 372170
+        },
+        {
+          "date": "2021-11-26",
+          "downloads": 23,
+          "version": 440998
+        },
+        {
           "date": "2021-11-26",
           "downloads": 16,
           "version": 350622
@@ -11119,11 +11139,6 @@
           "version": 372170
         },
         {
-          "date": "2021-11-26",
-          "downloads": 23,
-          "version": 440998
-        },
-        {
           "date": "2021-11-27",
           "downloads": 2,
           "version": 440998
@@ -11131,6 +11146,11 @@
         {
           "date": "2021-11-27",
           "downloads": 2,
+          "version": 350622
+        },
+        {
+          "date": "2021-11-28",
+          "downloads": 8,
           "version": 350622
         },
         {
@@ -11139,14 +11159,9 @@
           "version": 440998
         },
         {
-          "date": "2021-11-28",
-          "downloads": 8,
-          "version": 350622
-        },
-        {
           "date": "2021-11-29",
-          "downloads": 102,
-          "version": 440998
+          "downloads": 41,
+          "version": 350622
         },
         {
           "date": "2021-11-29",
@@ -11155,8 +11170,13 @@
         },
         {
           "date": "2021-11-29",
-          "downloads": 41,
-          "version": 350622
+          "downloads": 102,
+          "version": 440998
+        },
+        {
+          "date": "2021-11-30",
+          "downloads": 100,
+          "version": 440998
         },
         {
           "date": "2021-11-30",
@@ -11169,14 +11189,9 @@
           "version": 350622
         },
         {
-          "date": "2021-11-30",
-          "downloads": 100,
-          "version": 440998
-        },
-        {
           "date": "2021-12-01",
-          "downloads": 34,
-          "version": 350622
+          "downloads": 19,
+          "version": 372170
         },
         {
           "date": "2021-12-01",
@@ -11185,13 +11200,13 @@
         },
         {
           "date": "2021-12-01",
-          "downloads": 19,
-          "version": 372170
+          "downloads": 34,
+          "version": 350622
         },
         {
           "date": "2021-12-02",
-          "downloads": 25,
-          "version": 350622
+          "downloads": 8,
+          "version": 372170
         },
         {
           "date": "2021-12-02",
@@ -11200,13 +11215,13 @@
         },
         {
           "date": "2021-12-02",
-          "downloads": 8,
-          "version": 372170
+          "downloads": 25,
+          "version": 350622
         },
         {
           "date": "2021-12-03",
-          "downloads": 3,
-          "version": 372170
+          "downloads": 55,
+          "version": 350622
         },
         {
           "date": "2021-12-03",
@@ -11215,8 +11230,8 @@
         },
         {
           "date": "2021-12-03",
-          "downloads": 55,
-          "version": 350622
+          "downloads": 3,
+          "version": 372170
         },
         {
           "date": "2021-12-04",
@@ -11226,7 +11241,7 @@
         {
           "date": "2021-12-04",
           "downloads": 1,
-          "version": 329812
+          "version": 310288
         },
         {
           "date": "2021-12-04",
@@ -11241,6 +11256,11 @@
         {
           "date": "2021-12-04",
           "downloads": 1,
+          "version": 329812
+        },
+        {
+          "date": "2021-12-05",
+          "downloads": 1,
           "version": 310288
         },
         {
@@ -11249,19 +11269,14 @@
           "version": 350622
         },
         {
-          "date": "2021-12-05",
-          "downloads": 1,
-          "version": 310288
+          "date": "2021-12-06",
+          "downloads": 69,
+          "version": 350622
         },
         {
           "date": "2021-12-06",
           "downloads": 9,
           "version": 372170
-        },
-        {
-          "date": "2021-12-06",
-          "downloads": 69,
-          "version": 350622
         },
         {
           "date": "2021-12-06",
@@ -11290,8 +11305,8 @@
         },
         {
           "date": "2021-12-08",
-          "downloads": 60,
-          "version": 440998
+          "downloads": 1,
+          "version": 329812
         },
         {
           "date": "2021-12-08",
@@ -11300,13 +11315,13 @@
         },
         {
           "date": "2021-12-08",
-          "downloads": 1,
-          "version": 310288
+          "downloads": 60,
+          "version": 440998
         },
         {
           "date": "2021-12-08",
           "downloads": 1,
-          "version": 329812
+          "version": 310288
         },
         {
           "date": "2021-12-09",
@@ -11325,13 +11340,13 @@
         },
         {
           "date": "2021-12-10",
-          "downloads": 1,
-          "version": 310288
+          "downloads": 24,
+          "version": 372170
         },
         {
           "date": "2021-12-10",
-          "downloads": 24,
-          "version": 372170
+          "downloads": 30,
+          "version": 350622
         },
         {
           "date": "2021-12-10",
@@ -11340,8 +11355,8 @@
         },
         {
           "date": "2021-12-10",
-          "downloads": 30,
-          "version": 350622
+          "downloads": 1,
+          "version": 310288
         },
         {
           "date": "2021-12-11",
@@ -11355,13 +11370,13 @@
         },
         {
           "date": "2021-12-12",
-          "downloads": 1,
-          "version": 372170
+          "downloads": 9,
+          "version": 350622
         },
         {
           "date": "2021-12-12",
-          "downloads": 9,
-          "version": 350622
+          "downloads": 1,
+          "version": 372170
         },
         {
           "date": "2021-12-12",
@@ -11390,16 +11405,26 @@
         },
         {
           "date": "2021-12-14",
-          "downloads": 14,
-          "version": 372170
-        },
-        {
-          "date": "2021-12-14",
           "downloads": 26,
           "version": 440998
         },
         {
           "date": "2021-12-14",
+          "downloads": 1,
+          "version": 329812
+        },
+        {
+          "date": "2021-12-14",
+          "downloads": 14,
+          "version": 372170
+        },
+        {
+          "date": "2021-12-15",
+          "downloads": 52,
+          "version": 350622
+        },
+        {
+          "date": "2021-12-15",
           "downloads": 1,
           "version": 329812
         },
@@ -11410,23 +11435,23 @@
         },
         {
           "date": "2021-12-15",
-          "downloads": 1,
-          "version": 329812
-        },
-        {
-          "date": "2021-12-15",
-          "downloads": 52,
-          "version": 350622
-        },
-        {
-          "date": "2021-12-15",
           "downloads": 6,
           "version": 372170
         },
         {
           "date": "2021-12-16",
-          "downloads": 7,
+          "downloads": 29,
           "version": 350622
+        },
+        {
+          "date": "2021-12-16",
+          "downloads": 1,
+          "version": 372170
+        },
+        {
+          "date": "2021-12-16",
+          "downloads": 13,
+          "version": 440998
         }
       ],
       "meta": {
@@ -11494,14 +11519,14 @@
             "created_at": "2021-10-21T14:28:55.467990Z",
             "updated_at": "2021-10-21T14:28:55.467990Z",
             "dl_path": "/api/v1/crates/linfa-clustering/0.5.0/download",
-            "downloads": 1134,
+            "downloads": 1146,
             "features": {
-              "default": [],
               "serde": [
                 "serde_crate",
                 "ndarray/serde",
                 "linfa-nn/serde"
-              ]
+              ],
+              "default": []
             },
             "id": 441013,
             "num": "0.5.0",
@@ -11527,7 +11552,7 @@
           "dependency": {
             "crate_id": "linfa",
             "default_features": true,
-            "downloads": 18896,
+            "downloads": 18932,
             "features": [
               "ndarray-linalg"
             ],
@@ -11545,14 +11570,14 @@
             "created_at": "2021-10-21T14:24:49.130988Z",
             "updated_at": "2021-10-21T14:24:49.130988Z",
             "dl_path": "/api/v1/crates/linfa-kernel/0.5.0/download",
-            "downloads": 48,
+            "downloads": 49,
             "features": {
-              "default": [],
               "serde": [
                 "serde_crate",
                 "ndarray/serde",
                 "sprs/serde"
-              ]
+              ],
+              "default": []
             },
             "id": 441006,
             "num": "0.5.0",
@@ -11578,7 +11603,7 @@
           "dependency": {
             "crate_id": "linfa",
             "default_features": true,
-            "downloads": 2099,
+            "downloads": 2100,
             "features": [],
             "id": 2998846,
             "kind": "normal",
@@ -11594,7 +11619,7 @@
             "created_at": "2021-10-21T14:36:59.190105Z",
             "updated_at": "2021-10-21T14:36:59.190105Z",
             "dl_path": "/api/v1/crates/linfa-reduction/0.5.0/download",
-            "downloads": 37,
+            "downloads": 38,
             "features": {
               "serde": [
                 "serde_crate",
@@ -11626,7 +11651,7 @@
           "dependency": {
             "crate_id": "linfa",
             "default_features": true,
-            "downloads": 2013,
+            "downloads": 2014,
             "features": [
               "ndarray-linalg"
             ],
@@ -11728,7 +11753,7 @@
             "created_at": "2021-10-21T14:22:49.846235Z",
             "updated_at": "2021-10-21T14:22:49.846235Z",
             "dl_path": "/api/v1/crates/linfa-nn/0.5.0/download",
-            "downloads": 1162,
+            "downloads": 1175,
             "features": {
               "default": [],
               "serde": [
@@ -11760,7 +11785,7 @@
           "dependency": {
             "crate_id": "linfa",
             "default_features": true,
-            "downloads": 1162,
+            "downloads": 1175,
             "features": [],
             "id": 2998821,
             "kind": "normal",
@@ -11820,13 +11845,13 @@
             "created_at": "2021-10-21T14:26:54.939522Z",
             "updated_at": "2021-10-21T14:26:54.939522Z",
             "dl_path": "/api/v1/crates/linfa-datasets/0.5.0/download",
-            "downloads": 67,
+            "downloads": 68,
             "features": {
+              "diabetes": [],
               "iris": [],
-              "winequality": [],
               "default": [],
               "linnerud": [],
-              "diabetes": []
+              "winequality": []
             },
             "id": 441011,
             "num": "0.5.0",
@@ -11852,7 +11877,7 @@
           "dependency": {
             "crate_id": "linfa",
             "default_features": true,
-            "downloads": 355,
+            "downloads": 356,
             "features": [],
             "id": 2998902,
             "kind": "normal",
@@ -11914,11 +11939,11 @@
             "dl_path": "/api/v1/crates/linfa-trees/0.5.0/download",
             "downloads": 57,
             "features": {
+              "default": [],
               "serde": [
                 "serde_crate",
                 "ndarray/serde"
-              ],
-              "default": []
+              ]
             },
             "id": 441027,
             "num": "0.5.0",
@@ -11962,12 +11987,12 @@
             "dl_path": "/api/v1/crates/linfa-svm/0.5.0/download",
             "downloads": 37,
             "features": {
+              "default": [],
               "serde": [
                 "serde_crate",
                 "ndarray/serde",
                 "linfa-kernel/serde"
-              ],
-              "default": []
+              ]
             },
             "id": 441025,
             "num": "0.5.0",
@@ -12011,11 +12036,11 @@
             "dl_path": "/api/v1/crates/linfa-ica/0.5.0/download",
             "downloads": 26,
             "features": {
+              "default": [],
               "serde": [
                 "serde_crate",
                 "ndarray/serde"
-              ],
-              "default": []
+              ]
             },
             "id": 441016,
             "num": "0.5.0",
@@ -12059,7 +12084,7 @@
             "created_at": "2021-10-21T14:27:53.476567Z",
             "updated_at": "2021-10-21T14:27:53.476567Z",
             "dl_path": "/api/v1/crates/linfa-bayes/0.5.0/download",
-            "downloads": 36,
+            "downloads": 37,
             "features": {},
             "id": 441012,
             "num": "0.5.0",
@@ -12085,7 +12110,7 @@
           "dependency": {
             "crate_id": "linfa",
             "default_features": true,
-            "downloads": 234,
+            "downloads": 235,
             "features": [],
             "id": 2998906,
             "kind": "normal",
@@ -12196,11 +12221,11 @@
             "dl_path": "/api/v1/crates/linfa-pls/0.5.0/download",
             "downloads": 27,
             "features": {
-              "default": [],
               "serde": [
                 "serde_crate",
                 "ndarray/serde"
-              ]
+              ],
+              "default": []
             },
             "id": 441021,
             "num": "0.5.0",
@@ -12248,22 +12273,27 @@
         "created_at": "2021-10-21T14:16:54.421806Z",
         "updated_at": "2021-10-21T14:16:54.421806Z",
         "dl_path": "/api/v1/crates/linfa/0.5.0/download",
-        "downloads": 1238,
+        "downloads": 1251,
         "features": {
+          "openblas-system": [
+            "blas",
+            "ndarray-linalg",
+            "openblas-src/system"
+          ],
+          "default": [],
+          "serde": [
+            "serde_crate",
+            "ndarray/serde"
+          ],
           "netlib-static": [
             "blas",
             "ndarray-linalg",
             "netlib-src/static"
           ],
-          "intel-mkl-system": [
+          "openblas-static": [
             "blas",
             "ndarray-linalg",
-            "intel-mkl-src/mkl-dynamic-lp64-seq"
-          ],
-          "netlib-system": [
-            "blas",
-            "ndarray-linalg",
-            "netlib-src/system"
+            "openblas-src/static"
           ],
           "intel-mkl-static": [
             "blas",
@@ -12274,21 +12304,16 @@
           "blas": [
             "ndarray/blas"
           ],
-          "openblas-static": [
+          "netlib-system": [
             "blas",
             "ndarray-linalg",
-            "openblas-src/static"
+            "netlib-src/system"
           ],
-          "openblas-system": [
+          "intel-mkl-system": [
             "blas",
             "ndarray-linalg",
-            "openblas-src/system"
-          ],
-          "serde": [
-            "serde_crate",
-            "ndarray/serde"
-          ],
-          "default": []
+            "intel-mkl-src/mkl-dynamic-lp64-seq"
+          ]
         },
         "id": 440998,
         "num": "0.5.0",
@@ -12465,7 +12490,7 @@
     "categories": [
       {
         "category": "Algorithms",
-        "crates_cnt": 1386,
+        "crates_cnt": 1387,
         "created_at": "2017-01-17T19:13:05.112025Z",
         "description": "Rust implementations of core algorithms such as hashing, sorting, searching, and more.",
         "id": "algorithms",
@@ -12631,7 +12656,7 @@
     "documentation": "https://docs.rs/maths-traits",
     "homepage": null,
     "repository": "https://github.com/anvil777/maths-traits",
-    "total_downloads": 1699,
+    "total_downloads": 1701,
     "max_version": "0.2.1",
     "created_at": "2019-04-21T08:09:05.391714Z",
     "updated_at": "2019-09-16T04:25:23.776119Z",
@@ -12646,7 +12671,7 @@
       },
       {
         "category": "Algorithms",
-        "crates_cnt": 1386,
+        "crates_cnt": 1387,
         "created_at": "2017-01-17T19:13:05.112025Z",
         "description": "Rust implementations of core algorithms such as hashing, sorting, searching, and more.",
         "id": "algorithms",
@@ -12654,7 +12679,7 @@
       },
       {
         "category": "No standard library",
-        "crates_cnt": 3188,
+        "crates_cnt": 3189,
         "created_at": "2017-02-10T01:52:09.447906Z",
         "description": "Crates that are able to function without the Rust standard library.\n",
         "id": "no-std",
@@ -12978,17 +13003,17 @@
         {
           "date": "2021-12-08",
           "downloads": 1,
+          "version": 146335
+        },
+        {
+          "date": "2021-12-08",
+          "downloads": 1,
           "version": 151711
         },
         {
           "date": "2021-12-08",
           "downloads": 1,
           "version": 146051
-        },
-        {
-          "date": "2021-12-08",
-          "downloads": 1,
-          "version": 146335
         },
         {
           "date": "2021-12-09",
@@ -13003,6 +13028,11 @@
         {
           "date": "2021-12-15",
           "downloads": 3,
+          "version": 176397
+        },
+        {
+          "date": "2021-12-16",
+          "downloads": 2,
           "version": 176397
         }
       ],
@@ -13098,15 +13128,15 @@
             "dl_path": "/api/v1/crates/forceatlas2/0.4.0/download",
             "downloads": 48,
             "features": {
-              "default": [
-                "rand",
-                "parallel"
-              ],
               "parallel": [
                 "rayon"
               ],
               "barnes_hut": [
                 "nbody_barnes_hut"
+              ],
+              "default": [
+                "rand",
+                "parallel"
               ]
             },
             "id": 397766,
@@ -13237,7 +13267,7 @@
         "created_at": "2019-09-16T04:25:23.776119Z",
         "updated_at": "2019-09-16T04:25:23.776119Z",
         "dl_path": "/api/v1/crates/maths-traits/0.2.1/download",
-        "downloads": 649,
+        "downloads": 651,
         "features": {
           "std": [],
           "default": [
@@ -13693,7 +13723,7 @@
     "documentation": "https://github.com/PyThaiNLP/nlpo3/",
     "homepage": "https://github.com/PyThaiNLP/nlpo3/",
     "repository": "https://github.com/PyThaiNLP/nlpo3/",
-    "total_downloads": 861,
+    "total_downloads": 862,
     "max_version": "1.3.2",
     "created_at": "2021-07-17T21:12:12.780219Z",
     "updated_at": "2021-11-12T11:20:49.623740Z",
@@ -13857,13 +13887,13 @@
         },
         {
           "date": "2021-11-12",
-          "downloads": 1,
-          "version": 449561
+          "downloads": 57,
+          "version": 452585
         },
         {
           "date": "2021-11-12",
-          "downloads": 57,
-          "version": 452585
+          "downloads": 1,
+          "version": 449561
         },
         {
           "date": "2021-11-12",
@@ -13928,12 +13958,12 @@
         {
           "date": "2021-12-04",
           "downloads": 1,
-          "version": 449561
+          "version": 450224
         },
         {
           "date": "2021-12-04",
           "downloads": 1,
-          "version": 450224
+          "version": 403436
         },
         {
           "date": "2021-12-04",
@@ -13948,7 +13978,7 @@
         {
           "date": "2021-12-04",
           "downloads": 1,
-          "version": 403436
+          "version": 449561
         },
         {
           "date": "2021-12-08",
@@ -13958,12 +13988,12 @@
         {
           "date": "2021-12-09",
           "downloads": 1,
-          "version": 408200
+          "version": 403436
         },
         {
           "date": "2021-12-09",
           "downloads": 1,
-          "version": 403436
+          "version": 450224
         },
         {
           "date": "2021-12-09",
@@ -13978,7 +14008,7 @@
         {
           "date": "2021-12-09",
           "downloads": 1,
-          "version": 450224
+          "version": 408200
         },
         {
           "date": "2021-12-12",
@@ -13999,6 +14029,11 @@
           "date": "2021-12-14",
           "downloads": 1,
           "version": 449561
+        },
+        {
+          "date": "2021-12-16",
+          "downloads": 1,
+          "version": 408200
         }
       ],
       "meta": {
@@ -14230,7 +14265,7 @@
     "categories": [
       {
         "category": "Algorithms",
-        "crates_cnt": 1386,
+        "crates_cnt": 1387,
         "created_at": "2017-01-17T19:13:05.112025Z",
         "description": "Rust implementations of core algorithms such as hashing, sorting, searching, and more.",
         "id": "algorithms",
@@ -14254,7 +14289,7 @@
       },
       {
         "category": "Data structures",
-        "crates_cnt": 1850,
+        "crates_cnt": 1851,
         "created_at": "2017-01-17T19:13:05.112025Z",
         "description": "Rust implementations of particular ways of organizing data suited for specific purposes.",
         "id": "data-structures",
@@ -14556,6 +14591,11 @@
         "dl_path": "/api/v1/crates/probably/0.3.1/download",
         "downloads": 127,
         "features": {
+          "std": [
+            "bytecount",
+            "rand",
+            "siphasher"
+          ],
           "default": [
             "std"
           ],
@@ -14563,11 +14603,6 @@
             "serde/std",
             "serde_json",
             "serde_bytes"
-          ],
-          "std": [
-            "bytecount",
-            "rand",
-            "siphasher"
           ]
         },
         "id": 311762,
@@ -14729,7 +14764,7 @@
     "documentation": null,
     "homepage": null,
     "repository": "https://github.com/RAUI-labs/raui",
-    "total_downloads": 3392,
+    "total_downloads": 3395,
     "max_version": "0.38.4",
     "created_at": "2017-09-26T12:19:29.902659Z",
     "updated_at": "2021-11-19T04:12:20.007056Z",
@@ -14761,7 +14796,7 @@
       {
         "id": "gamedev",
         "keyword": "gamedev",
-        "crates_cnt": 428,
+        "crates_cnt": 429,
         "created_at": "2014-11-12T20:34:24.755176Z"
       },
       {
@@ -14793,7 +14828,7 @@
         {
           "date": "2021-09-19",
           "downloads": 1,
-          "version": 397428
+          "version": 402731
         },
         {
           "date": "2021-09-19",
@@ -14803,7 +14838,7 @@
         {
           "date": "2021-09-19",
           "downloads": 1,
-          "version": 402731
+          "version": 397428
         },
         {
           "date": "2021-09-20",
@@ -14828,7 +14863,7 @@
         {
           "date": "2021-10-01",
           "downloads": 1,
-          "version": 397428
+          "version": 402731
         },
         {
           "date": "2021-10-01",
@@ -14838,7 +14873,7 @@
         {
           "date": "2021-10-01",
           "downloads": 1,
-          "version": 402731
+          "version": 397428
         },
         {
           "date": "2021-10-08",
@@ -14853,12 +14888,12 @@
         {
           "date": "2021-10-14",
           "downloads": 1,
-          "version": 397428
+          "version": 402731
         },
         {
           "date": "2021-10-14",
           "downloads": 1,
-          "version": 402731
+          "version": 397428
         },
         {
           "date": "2021-10-14",
@@ -14873,12 +14908,12 @@
         {
           "date": "2021-10-16",
           "downloads": 1,
-          "version": 396984
+          "version": 397428
         },
         {
           "date": "2021-10-16",
           "downloads": 1,
-          "version": 397428
+          "version": 396984
         },
         {
           "date": "2021-10-22",
@@ -14938,7 +14973,7 @@
         {
           "date": "2021-11-09",
           "downloads": 1,
-          "version": 402731
+          "version": 397428
         },
         {
           "date": "2021-11-09",
@@ -14953,7 +14988,7 @@
         {
           "date": "2021-11-09",
           "downloads": 1,
-          "version": 397428
+          "version": 402731
         },
         {
           "date": "2021-11-10",
@@ -15013,12 +15048,12 @@
         {
           "date": "2021-11-30",
           "downloads": 1,
-          "version": 455701
+          "version": 446619
         },
         {
           "date": "2021-11-30",
           "downloads": 1,
-          "version": 446619
+          "version": 455701
         },
         {
           "date": "2021-12-02",
@@ -15028,12 +15063,12 @@
         {
           "date": "2021-12-04",
           "downloads": 1,
-          "version": 396984
+          "version": 402731
         },
         {
           "date": "2021-12-04",
           "downloads": 1,
-          "version": 402731
+          "version": 396984
         },
         {
           "date": "2021-12-04",
@@ -15057,21 +15092,6 @@
         },
         {
           "date": "2021-12-09",
-          "downloads": 2,
-          "version": 455701
-        },
-        {
-          "date": "2021-12-09",
-          "downloads": 1,
-          "version": 446619
-        },
-        {
-          "date": "2021-12-09",
-          "downloads": 1,
-          "version": 402731
-        },
-        {
-          "date": "2021-12-09",
           "downloads": 1,
           "version": 397428
         },
@@ -15081,7 +15101,27 @@
           "version": 396984
         },
         {
+          "date": "2021-12-09",
+          "downloads": 1,
+          "version": 402731
+        },
+        {
+          "date": "2021-12-09",
+          "downloads": 1,
+          "version": 446619
+        },
+        {
+          "date": "2021-12-09",
+          "downloads": 2,
+          "version": 455701
+        },
+        {
           "date": "2021-12-12",
+          "downloads": 1,
+          "version": 455701
+        },
+        {
+          "date": "2021-12-14",
           "downloads": 1,
           "version": 455701
         },
@@ -15091,13 +15131,13 @@
           "version": 446619
         },
         {
-          "date": "2021-12-14",
-          "downloads": 1,
+          "date": "2021-12-15",
+          "downloads": 2,
           "version": 455701
         },
         {
-          "date": "2021-12-15",
-          "downloads": 2,
+          "date": "2021-12-16",
+          "downloads": 1,
           "version": 455701
         }
       ],
@@ -15366,6 +15406,10 @@
           {
             "date": "2021-12-15",
             "downloads": 4
+          },
+          {
+            "date": "2021-12-16",
+            "downloads": 2
           }
         ]
       }
@@ -15389,7 +15433,7 @@
             "created_at": "2021-07-19T13:59:35.461822Z",
             "updated_at": "2021-07-19T13:59:35.461822Z",
             "dl_path": "/api/v1/crates/bevy_retrograde_ui/0.2.0/download",
-            "downloads": 204,
+            "downloads": 206,
             "features": {},
             "id": 402923,
             "num": "0.2.0",
@@ -15415,7 +15459,7 @@
           "dependency": {
             "crate_id": "raui",
             "default_features": true,
-            "downloads": 342,
+            "downloads": 344,
             "features": [
               "material",
               "tesselate"
@@ -15480,12 +15524,29 @@
         "created_at": "2021-11-19T04:12:20.007056Z",
         "updated_at": "2021-11-19T04:12:20.007056Z",
         "dl_path": "/api/v1/crates/raui/0.38.4/download",
-        "downloads": 34,
+        "downloads": 35,
         "features": {
           "integer64": [
             "raui-core/integer64",
             "raui-material/integer64",
             "raui-tesselate-renderer/integer64"
+          ],
+          "json": [
+            "raui-json-renderer"
+          ],
+          "scalar64": [
+            "raui-core/scalar64",
+            "raui-material/scalar64",
+            "raui-tesselate-renderer/scalar64"
+          ],
+          "yaml": [
+            "raui-yaml-renderer"
+          ],
+          "html": [
+            "raui-html-renderer"
+          ],
+          "tesselate": [
+            "raui-tesselate-renderer"
           ],
           "all": [
             "material",
@@ -15496,31 +15557,14 @@
             "tesselate",
             "yaml"
           ],
-          "html": [
-            "raui-html-renderer"
-          ],
           "material": [
             "raui-material"
           ],
-          "json": [
-            "raui-json-renderer"
-          ],
-          "tesselate": [
-            "raui-tesselate-renderer"
-          ],
-          "yaml": [
-            "raui-yaml-renderer"
-          ],
-          "scalar64": [
-            "raui-core/scalar64",
-            "raui-material/scalar64",
-            "raui-tesselate-renderer/scalar64"
+          "binary": [
+            "raui-binary-renderer"
           ],
           "ron": [
             "raui-ron-renderer"
-          ],
-          "binary": [
-            "raui-binary-renderer"
           ]
         },
         "id": 455701,
@@ -15682,7 +15726,7 @@
     "documentation": null,
     "homepage": null,
     "repository": "https://github.com/RAUI-labs/raui",
-    "total_downloads": 2110,
+    "total_downloads": 2111,
     "max_version": "0.38.4",
     "created_at": "2020-12-05T06:34:10.306829Z",
     "updated_at": "2021-11-19T04:09:39.439624Z",
@@ -15714,7 +15758,7 @@
       {
         "id": "gamedev",
         "keyword": "gamedev",
-        "crates_cnt": 428,
+        "crates_cnt": 429,
         "created_at": "2014-11-12T20:34:24.755176Z"
       },
       {
@@ -15746,12 +15790,12 @@
         {
           "date": "2021-09-19",
           "downloads": 1,
-          "version": 397420
+          "version": 402723
         },
         {
           "date": "2021-09-19",
           "downloads": 1,
-          "version": 402723
+          "version": 397420
         },
         {
           "date": "2021-09-20",
@@ -15771,12 +15815,12 @@
         {
           "date": "2021-10-01",
           "downloads": 1,
-          "version": 402723
+          "version": 396976
         },
         {
           "date": "2021-10-01",
           "downloads": 1,
-          "version": 396976
+          "version": 402723
         },
         {
           "date": "2021-10-08",
@@ -15791,12 +15835,12 @@
         {
           "date": "2021-10-14",
           "downloads": 1,
-          "version": 402723
+          "version": 397420
         },
         {
           "date": "2021-10-14",
           "downloads": 1,
-          "version": 397420
+          "version": 402723
         },
         {
           "date": "2021-10-16",
@@ -15806,12 +15850,12 @@
         {
           "date": "2021-10-16",
           "downloads": 1,
-          "version": 396976
+          "version": 397420
         },
         {
           "date": "2021-10-16",
           "downloads": 1,
-          "version": 397420
+          "version": 396976
         },
         {
           "date": "2021-10-23",
@@ -15866,6 +15910,11 @@
         {
           "date": "2021-11-09",
           "downloads": 1,
+          "version": 397420
+        },
+        {
+          "date": "2021-11-09",
+          "downloads": 1,
           "version": 402723
         },
         {
@@ -15874,24 +15923,19 @@
           "version": 446610
         },
         {
-          "date": "2021-11-09",
-          "downloads": 1,
-          "version": 397420
-        },
-        {
           "date": "2021-11-19",
           "downloads": 14,
           "version": 455692
         },
         {
           "date": "2021-11-20",
-          "downloads": 3,
-          "version": 455692
+          "downloads": 1,
+          "version": 446610
         },
         {
           "date": "2021-11-20",
-          "downloads": 1,
-          "version": 446610
+          "downloads": 3,
+          "version": 455692
         },
         {
           "date": "2021-11-21",
@@ -15921,7 +15965,7 @@
         {
           "date": "2021-12-04",
           "downloads": 1,
-          "version": 397420
+          "version": 455692
         },
         {
           "date": "2021-12-04",
@@ -15931,7 +15975,7 @@
         {
           "date": "2021-12-04",
           "downloads": 1,
-          "version": 455692
+          "version": 397420
         },
         {
           "date": "2021-12-04",
@@ -15950,6 +15994,11 @@
         },
         {
           "date": "2021-12-09",
+          "downloads": 2,
+          "version": 455692
+        },
+        {
+          "date": "2021-12-09",
           "downloads": 1,
           "version": 446610
         },
@@ -15969,11 +16018,6 @@
           "version": 396976
         },
         {
-          "date": "2021-12-09",
-          "downloads": 2,
-          "version": 455692
-        },
-        {
           "date": "2021-12-10",
           "downloads": 1,
           "version": 455692
@@ -15986,12 +16030,17 @@
         {
           "date": "2021-12-14",
           "downloads": 1,
-          "version": 455692
+          "version": 446610
         },
         {
           "date": "2021-12-14",
           "downloads": 1,
-          "version": 446610
+          "version": 455692
+        },
+        {
+          "date": "2021-12-16",
+          "downloads": 1,
+          "version": 455692
         }
       ],
       "meta": {
@@ -16054,18 +16103,24 @@
             "created_at": "2021-11-19T04:12:20.007056Z",
             "updated_at": "2021-11-19T04:12:20.007056Z",
             "dl_path": "/api/v1/crates/raui/0.38.4/download",
-            "downloads": 34,
+            "downloads": 35,
             "features": {
-              "tesselate": [
-                "raui-tesselate-renderer"
+              "ron": [
+                "raui-ron-renderer"
               ],
               "scalar64": [
                 "raui-core/scalar64",
                 "raui-material/scalar64",
                 "raui-tesselate-renderer/scalar64"
               ],
-              "material": [
-                "raui-material"
+              "tesselate": [
+                "raui-tesselate-renderer"
+              ],
+              "yaml": [
+                "raui-yaml-renderer"
+              ],
+              "binary": [
+                "raui-binary-renderer"
               ],
               "integer64": [
                 "raui-core/integer64",
@@ -16074,15 +16129,6 @@
               ],
               "json": [
                 "raui-json-renderer"
-              ],
-              "yaml": [
-                "raui-yaml-renderer"
-              ],
-              "binary": [
-                "raui-binary-renderer"
-              ],
-              "html": [
-                "raui-html-renderer"
               ],
               "all": [
                 "material",
@@ -16093,8 +16139,11 @@
                 "tesselate",
                 "yaml"
               ],
-              "ron": [
-                "raui-ron-renderer"
+              "html": [
+                "raui-html-renderer"
+              ],
+              "material": [
+                "raui-material"
               ]
             },
             "id": 455701,
@@ -16121,7 +16170,7 @@
           "dependency": {
             "crate_id": "raui-binary-renderer",
             "default_features": true,
-            "downloads": 3392,
+            "downloads": 3395,
             "features": [],
             "id": 3135016,
             "kind": "normal",
@@ -16141,7 +16190,7 @@
         "created_at": "2021-11-19T04:09:39.439624Z",
         "updated_at": "2021-11-19T04:09:39.439624Z",
         "dl_path": "/api/v1/crates/raui-binary-renderer/0.38.4/download",
-        "downloads": 31,
+        "downloads": 32,
         "features": {},
         "id": 455692,
         "num": "0.38.4",
@@ -16206,7 +16255,7 @@
     "documentation": null,
     "homepage": null,
     "repository": "https://github.com/RAUI-labs/raui",
-    "total_downloads": 3268,
+    "total_downloads": 3272,
     "max_version": "0.38.4",
     "created_at": "2020-12-05T06:32:31.933884Z",
     "updated_at": "2021-11-19T04:08:33.897364Z",
@@ -16238,7 +16287,7 @@
       {
         "id": "gamedev",
         "keyword": "gamedev",
-        "crates_cnt": 428,
+        "crates_cnt": 429,
         "created_at": "2014-11-12T20:34:24.755176Z"
       },
       {
@@ -16621,6 +16670,11 @@
           "date": "2021-12-15",
           "downloads": 2,
           "version": 455688
+        },
+        {
+          "date": "2021-12-16",
+          "downloads": 2,
+          "version": 455688
         }
       ],
       "meta": {
@@ -16888,6 +16942,10 @@
           {
             "date": "2021-12-15",
             "downloads": 4
+          },
+          {
+            "date": "2021-12-16",
+            "downloads": 2
           }
         ]
       }
@@ -16911,18 +16969,23 @@
             "created_at": "2021-11-19T04:12:20.007056Z",
             "updated_at": "2021-11-19T04:12:20.007056Z",
             "dl_path": "/api/v1/crates/raui/0.38.4/download",
-            "downloads": 34,
+            "downloads": 35,
             "features": {
+              "tesselate": [
+                "raui-tesselate-renderer"
+              ],
               "integer64": [
                 "raui-core/integer64",
                 "raui-material/integer64",
                 "raui-tesselate-renderer/integer64"
               ],
-              "tesselate": [
-                "raui-tesselate-renderer"
-              ],
               "ron": [
                 "raui-ron-renderer"
+              ],
+              "scalar64": [
+                "raui-core/scalar64",
+                "raui-material/scalar64",
+                "raui-tesselate-renderer/scalar64"
               ],
               "all": [
                 "material",
@@ -16939,19 +17002,14 @@
               "html": [
                 "raui-html-renderer"
               ],
-              "json": [
-                "raui-json-renderer"
-              ],
-              "scalar64": [
-                "raui-core/scalar64",
-                "raui-material/scalar64",
-                "raui-tesselate-renderer/scalar64"
-              ],
               "yaml": [
                 "raui-yaml-renderer"
               ],
               "material": [
                 "raui-material"
+              ],
+              "json": [
+                "raui-json-renderer"
               ]
             },
             "id": 455701,
@@ -16978,7 +17036,7 @@
           "dependency": {
             "crate_id": "raui-core",
             "default_features": true,
-            "downloads": 3392,
+            "downloads": 3395,
             "features": [],
             "id": 3135017,
             "kind": "normal",
@@ -16994,13 +17052,13 @@
             "created_at": "2021-11-19T04:08:55.775813Z",
             "updated_at": "2021-11-19T04:08:55.775813Z",
             "dl_path": "/api/v1/crates/raui-material/0.38.4/download",
-            "downloads": 57,
+            "downloads": 59,
             "features": {
-              "scalar64": [
-                "raui-core/scalar64"
-              ],
               "integer64": [
                 "raui-core/integer64"
+              ],
+              "scalar64": [
+                "raui-core/scalar64"
               ]
             },
             "id": 455689,
@@ -17027,7 +17085,7 @@
           "dependency": {
             "crate_id": "raui-core",
             "default_features": true,
-            "downloads": 2582,
+            "downloads": 2586,
             "features": [],
             "id": 3134968,
             "kind": "normal",
@@ -17043,7 +17101,7 @@
             "created_at": "2021-11-19T04:10:58.581366Z",
             "updated_at": "2021-11-19T04:10:58.581366Z",
             "dl_path": "/api/v1/crates/raui-yaml-renderer/0.38.4/download",
-            "downloads": 29,
+            "downloads": 30,
             "features": {},
             "id": 455697,
             "num": "0.38.4",
@@ -17069,7 +17127,7 @@
           "dependency": {
             "crate_id": "raui-core",
             "default_features": true,
-            "downloads": 2165,
+            "downloads": 2166,
             "features": [],
             "id": 3135002,
             "kind": "normal",
@@ -17085,7 +17143,7 @@
             "created_at": "2021-11-19T04:09:58.967379Z",
             "updated_at": "2021-11-19T04:09:58.967379Z",
             "dl_path": "/api/v1/crates/raui-html-renderer/0.38.4/download",
-            "downloads": 29,
+            "downloads": 30,
             "features": {},
             "id": 455693,
             "num": "0.38.4",
@@ -17111,7 +17169,7 @@
           "dependency": {
             "crate_id": "raui-core",
             "default_features": true,
-            "downloads": 2138,
+            "downloads": 2139,
             "features": [],
             "id": 3134995,
             "kind": "normal",
@@ -17127,7 +17185,7 @@
             "created_at": "2021-11-19T04:10:36.879985Z",
             "updated_at": "2021-11-19T04:10:36.879985Z",
             "dl_path": "/api/v1/crates/raui-ron-renderer/0.38.4/download",
-            "downloads": 31,
+            "downloads": 32,
             "features": {},
             "id": 455696,
             "num": "0.38.4",
@@ -17153,7 +17211,7 @@
           "dependency": {
             "crate_id": "raui-core",
             "default_features": true,
-            "downloads": 2117,
+            "downloads": 2118,
             "features": [],
             "id": 3134999,
             "kind": "normal",
@@ -17169,7 +17227,7 @@
             "created_at": "2021-11-19T04:09:39.439624Z",
             "updated_at": "2021-11-19T04:09:39.439624Z",
             "dl_path": "/api/v1/crates/raui-binary-renderer/0.38.4/download",
-            "downloads": 31,
+            "downloads": 32,
             "features": {},
             "id": 455692,
             "num": "0.38.4",
@@ -17195,7 +17253,7 @@
           "dependency": {
             "crate_id": "raui-core",
             "default_features": true,
-            "downloads": 2110,
+            "downloads": 2111,
             "features": [],
             "id": 3134993,
             "kind": "normal",
@@ -17211,7 +17269,7 @@
             "created_at": "2021-11-19T04:10:16.445982Z",
             "updated_at": "2021-11-19T04:10:16.445982Z",
             "dl_path": "/api/v1/crates/raui-json-renderer/0.38.4/download",
-            "downloads": 29,
+            "downloads": 30,
             "features": {},
             "id": 455694,
             "num": "0.38.4",
@@ -17237,7 +17295,7 @@
           "dependency": {
             "crate_id": "raui-core",
             "default_features": true,
-            "downloads": 2089,
+            "downloads": 2090,
             "features": [],
             "id": 3134996,
             "kind": "normal",
@@ -17295,7 +17353,7 @@
             "created_at": "2021-11-19T04:09:18.166984Z",
             "updated_at": "2021-11-19T04:09:18.166984Z",
             "dl_path": "/api/v1/crates/raui-tesselate-renderer/0.38.4/download",
-            "downloads": 56,
+            "downloads": 58,
             "features": {
               "integer64": [
                 "raui-core/integer64"
@@ -17329,7 +17387,7 @@
           "dependency": {
             "crate_id": "raui-core",
             "default_features": true,
-            "downloads": 1329,
+            "downloads": 1333,
             "features": [],
             "id": 3134970,
             "kind": "normal",
@@ -17345,7 +17403,7 @@
             "created_at": "2021-11-19T04:11:36.289889Z",
             "updated_at": "2021-11-19T04:11:36.289889Z",
             "dl_path": "/api/v1/crates/raui-tetra-renderer/0.38.4/download",
-            "downloads": 32,
+            "downloads": 33,
             "features": {},
             "id": 455699,
             "num": "0.38.4",
@@ -17371,7 +17429,7 @@
           "dependency": {
             "crate_id": "raui-core",
             "default_features": true,
-            "downloads": 632,
+            "downloads": 633,
             "features": [],
             "id": 3135008,
             "kind": "normal",
@@ -17387,15 +17445,15 @@
             "created_at": "2021-12-13T05:31:05.627348Z",
             "updated_at": "2021-12-13T05:31:05.627348Z",
             "dl_path": "/api/v1/crates/oxygengine-user-interface/0.26.0/download",
-            "downloads": 22,
+            "downloads": 23,
             "features": {
-              "web": [
-                "oxygengine-core/web",
-                "oxygengine-input/web"
-              ],
               "parallel": [
                 "oxygengine-core/parallel",
                 "oxygengine-input/parallel"
+              ],
+              "web": [
+                "oxygengine-core/web",
+                "oxygengine-input/web"
               ],
               "scalar64": [
                 "raui-core/scalar64",
@@ -17428,7 +17486,7 @@
           "dependency": {
             "crate_id": "raui-core",
             "default_features": true,
-            "downloads": 549,
+            "downloads": 550,
             "features": [],
             "id": 3240186,
             "kind": "normal",
@@ -17448,7 +17506,7 @@
         "created_at": "2021-11-19T04:08:33.897364Z",
         "updated_at": "2021-11-19T04:08:33.897364Z",
         "dl_path": "/api/v1/crates/raui-core/0.38.4/download",
-        "downloads": 59,
+        "downloads": 61,
         "features": {
           "integer64": [],
           "scalar64": []
@@ -17516,7 +17574,7 @@
     "documentation": null,
     "homepage": null,
     "repository": "https://github.com/RAUI-labs/raui",
-    "total_downloads": 1501,
+    "total_downloads": 1505,
     "max_version": "0.38.4",
     "created_at": "2021-04-19T04:19:22.923329Z",
     "updated_at": "2021-11-19T04:08:13.551152Z",
@@ -17548,7 +17606,7 @@
       {
         "id": "gamedev",
         "keyword": "gamedev",
-        "crates_cnt": 428,
+        "crates_cnt": 429,
         "created_at": "2014-11-12T20:34:24.755176Z"
       },
       {
@@ -17874,13 +17932,13 @@
         },
         {
           "date": "2021-11-20",
-          "downloads": 1,
-          "version": 446604
+          "downloads": 16,
+          "version": 455687
         },
         {
           "date": "2021-11-20",
-          "downloads": 16,
-          "version": 455687
+          "downloads": 1,
+          "version": 446604
         },
         {
           "date": "2021-11-21",
@@ -17915,12 +17973,12 @@
         {
           "date": "2021-11-30",
           "downloads": 1,
-          "version": 446604
+          "version": 455687
         },
         {
           "date": "2021-11-30",
           "downloads": 1,
-          "version": 455687
+          "version": 446604
         },
         {
           "date": "2021-12-01",
@@ -17935,12 +17993,7 @@
         {
           "date": "2021-12-04",
           "downloads": 1,
-          "version": 402718
-        },
-        {
-          "date": "2021-12-04",
-          "downloads": 1,
-          "version": 397415
+          "version": 446604
         },
         {
           "date": "2021-12-04",
@@ -17950,12 +18003,17 @@
         {
           "date": "2021-12-04",
           "downloads": 1,
-          "version": 455687
+          "version": 397415
         },
         {
           "date": "2021-12-04",
           "downloads": 1,
-          "version": 446604
+          "version": 402718
+        },
+        {
+          "date": "2021-12-04",
+          "downloads": 1,
+          "version": 455687
         },
         {
           "date": "2021-12-05",
@@ -17970,12 +18028,12 @@
         {
           "date": "2021-12-07",
           "downloads": 1,
-          "version": 446604
+          "version": 455687
         },
         {
           "date": "2021-12-07",
           "downloads": 1,
-          "version": 455687
+          "version": 446604
         },
         {
           "date": "2021-12-08",
@@ -17985,17 +18043,12 @@
         {
           "date": "2021-12-09",
           "downloads": 1,
-          "version": 446604
-        },
-        {
-          "date": "2021-12-09",
-          "downloads": 1,
-          "version": 396972
-        },
-        {
-          "date": "2021-12-09",
-          "downloads": 1,
           "version": 397415
+        },
+        {
+          "date": "2021-12-09",
+          "downloads": 1,
+          "version": 446604
         },
         {
           "date": "2021-12-09",
@@ -18006,6 +18059,11 @@
           "date": "2021-12-09",
           "downloads": 3,
           "version": 455687
+        },
+        {
+          "date": "2021-12-09",
+          "downloads": 1,
+          "version": 396972
         },
         {
           "date": "2021-12-11",
@@ -18024,16 +18082,21 @@
         },
         {
           "date": "2021-12-14",
-          "downloads": 1,
-          "version": 446604
-        },
-        {
-          "date": "2021-12-14",
           "downloads": 3,
           "version": 455687
         },
         {
+          "date": "2021-12-14",
+          "downloads": 1,
+          "version": 446604
+        },
+        {
           "date": "2021-12-15",
+          "downloads": 2,
+          "version": 455687
+        },
+        {
+          "date": "2021-12-16",
           "downloads": 2,
           "version": 455687
         }
@@ -18311,6 +18374,10 @@
           {
             "date": "2021-12-15",
             "downloads": 6
+          },
+          {
+            "date": "2021-12-16",
+            "downloads": 2
           }
         ]
       }
@@ -18334,7 +18401,7 @@
             "created_at": "2021-11-19T04:08:33.897364Z",
             "updated_at": "2021-11-19T04:08:33.897364Z",
             "dl_path": "/api/v1/crates/raui-core/0.38.4/download",
-            "downloads": 59,
+            "downloads": 61,
             "features": {
               "integer64": [],
               "scalar64": []
@@ -18363,7 +18430,7 @@
           "dependency": {
             "crate_id": "raui-derive",
             "default_features": true,
-            "downloads": 3268,
+            "downloads": 3272,
             "features": [],
             "id": 3134965,
             "kind": "normal",
@@ -18383,7 +18450,7 @@
         "created_at": "2021-11-19T04:08:13.551152Z",
         "updated_at": "2021-11-19T04:08:13.551152Z",
         "dl_path": "/api/v1/crates/raui-derive/0.38.4/download",
-        "downloads": 77,
+        "downloads": 79,
         "features": {},
         "id": 455687,
         "num": "0.38.4",
@@ -18469,7 +18536,7 @@
       {
         "id": "gamedev",
         "keyword": "gamedev",
-        "crates_cnt": 428,
+        "crates_cnt": 429,
         "created_at": "2014-11-12T20:34:24.755176Z"
       },
       {
@@ -18837,7 +18904,7 @@
     "documentation": null,
     "homepage": null,
     "repository": "https://github.com/RAUI-labs/raui",
-    "total_downloads": 2138,
+    "total_downloads": 2139,
     "max_version": "0.38.4",
     "created_at": "2020-12-05T06:34:49.530944Z",
     "updated_at": "2021-11-19T04:09:58.967379Z",
@@ -18869,7 +18936,7 @@
       {
         "id": "gamedev",
         "keyword": "gamedev",
-        "crates_cnt": 428,
+        "crates_cnt": 429,
         "created_at": "2014-11-12T20:34:24.755176Z"
       },
       {
@@ -18896,7 +18963,7 @@
         {
           "date": "2021-09-19",
           "downloads": 1,
-          "version": 397421
+          "version": 396977
         },
         {
           "date": "2021-09-19",
@@ -18906,7 +18973,7 @@
         {
           "date": "2021-09-19",
           "downloads": 1,
-          "version": 396977
+          "version": 397421
         },
         {
           "date": "2021-09-20",
@@ -18926,12 +18993,12 @@
         {
           "date": "2021-10-01",
           "downloads": 1,
-          "version": 396977
+          "version": 402724
         },
         {
           "date": "2021-10-01",
           "downloads": 1,
-          "version": 402724
+          "version": 396977
         },
         {
           "date": "2021-10-08",
@@ -18961,17 +19028,17 @@
         {
           "date": "2021-10-17",
           "downloads": 1,
-          "version": 396977
-        },
-        {
-          "date": "2021-10-17",
-          "downloads": 1,
           "version": 397421
         },
         {
           "date": "2021-10-17",
           "downloads": 1,
           "version": 402724
+        },
+        {
+          "date": "2021-10-17",
+          "downloads": 1,
+          "version": 396977
         },
         {
           "date": "2021-10-23",
@@ -19011,6 +19078,11 @@
         {
           "date": "2021-11-09",
           "downloads": 1,
+          "version": 396977
+        },
+        {
+          "date": "2021-11-09",
+          "downloads": 1,
           "version": 446611
         },
         {
@@ -19024,24 +19096,19 @@
           "version": 402724
         },
         {
-          "date": "2021-11-09",
-          "downloads": 1,
-          "version": 396977
-        },
-        {
           "date": "2021-11-19",
           "downloads": 13,
           "version": 455693
         },
         {
           "date": "2021-11-20",
-          "downloads": 1,
-          "version": 446611
+          "downloads": 3,
+          "version": 455693
         },
         {
           "date": "2021-11-20",
-          "downloads": 3,
-          "version": 455693
+          "downloads": 1,
+          "version": 446611
         },
         {
           "date": "2021-11-21",
@@ -19081,17 +19148,17 @@
         {
           "date": "2021-12-04",
           "downloads": 1,
+          "version": 455693
+        },
+        {
+          "date": "2021-12-04",
+          "downloads": 1,
           "version": 402724
         },
         {
           "date": "2021-12-04",
           "downloads": 1,
           "version": 446611
-        },
-        {
-          "date": "2021-12-04",
-          "downloads": 1,
-          "version": 455693
         },
         {
           "date": "2021-12-08",
@@ -19106,12 +19173,12 @@
         {
           "date": "2021-12-09",
           "downloads": 1,
-          "version": 397421
+          "version": 402724
         },
         {
           "date": "2021-12-09",
           "downloads": 1,
-          "version": 402724
+          "version": 397421
         },
         {
           "date": "2021-12-09",
@@ -19131,10 +19198,15 @@
         {
           "date": "2021-12-14",
           "downloads": 1,
-          "version": 446611
+          "version": 455693
         },
         {
           "date": "2021-12-14",
+          "downloads": 1,
+          "version": 446611
+        },
+        {
+          "date": "2021-12-16",
           "downloads": 1,
           "version": 455693
         }
@@ -19199,24 +19271,8 @@
             "created_at": "2021-11-19T04:12:20.007056Z",
             "updated_at": "2021-11-19T04:12:20.007056Z",
             "dl_path": "/api/v1/crates/raui/0.38.4/download",
-            "downloads": 34,
+            "downloads": 35,
             "features": {
-              "html": [
-                "raui-html-renderer"
-              ],
-              "integer64": [
-                "raui-core/integer64",
-                "raui-material/integer64",
-                "raui-tesselate-renderer/integer64"
-              ],
-              "binary": [
-                "raui-binary-renderer"
-              ],
-              "scalar64": [
-                "raui-core/scalar64",
-                "raui-material/scalar64",
-                "raui-tesselate-renderer/scalar64"
-              ],
               "all": [
                 "material",
                 "binary",
@@ -19226,17 +19282,33 @@
                 "tesselate",
                 "yaml"
               ],
-              "ron": [
-                "raui-ron-renderer"
+              "html": [
+                "raui-html-renderer"
+              ],
+              "integer64": [
+                "raui-core/integer64",
+                "raui-material/integer64",
+                "raui-tesselate-renderer/integer64"
               ],
               "json": [
                 "raui-json-renderer"
               ],
-              "material": [
-                "raui-material"
+              "ron": [
+                "raui-ron-renderer"
+              ],
+              "binary": [
+                "raui-binary-renderer"
               ],
               "tesselate": [
                 "raui-tesselate-renderer"
+              ],
+              "scalar64": [
+                "raui-core/scalar64",
+                "raui-material/scalar64",
+                "raui-tesselate-renderer/scalar64"
+              ],
+              "material": [
+                "raui-material"
               ],
               "yaml": [
                 "raui-yaml-renderer"
@@ -19266,7 +19338,7 @@
           "dependency": {
             "crate_id": "raui-html-renderer",
             "default_features": true,
-            "downloads": 3392,
+            "downloads": 3395,
             "features": [],
             "id": 3135018,
             "kind": "normal",
@@ -19286,7 +19358,7 @@
         "created_at": "2021-11-19T04:09:58.967379Z",
         "updated_at": "2021-11-19T04:09:58.967379Z",
         "dl_path": "/api/v1/crates/raui-html-renderer/0.38.4/download",
-        "downloads": 29,
+        "downloads": 30,
         "features": {},
         "id": 455693,
         "num": "0.38.4",
@@ -19325,7 +19397,7 @@
     "documentation": null,
     "homepage": null,
     "repository": "https://github.com/RAUI-labs/raui",
-    "total_downloads": 2089,
+    "total_downloads": 2090,
     "max_version": "0.38.4",
     "created_at": "2020-12-05T06:35:58.910564Z",
     "updated_at": "2021-11-19T04:10:16.445982Z",
@@ -19357,7 +19429,7 @@
       {
         "id": "gamedev",
         "keyword": "gamedev",
-        "crates_cnt": 428,
+        "crates_cnt": 429,
         "created_at": "2014-11-12T20:34:24.755176Z"
       },
       {
@@ -19384,17 +19456,17 @@
         {
           "date": "2021-09-19",
           "downloads": 1,
+          "version": 396978
+        },
+        {
+          "date": "2021-09-19",
+          "downloads": 1,
           "version": 397422
         },
         {
           "date": "2021-09-19",
           "downloads": 1,
           "version": 402725
-        },
-        {
-          "date": "2021-09-19",
-          "downloads": 1,
-          "version": 396978
         },
         {
           "date": "2021-09-20",
@@ -19414,12 +19486,12 @@
         {
           "date": "2021-10-01",
           "downloads": 1,
-          "version": 396978
+          "version": 402725
         },
         {
           "date": "2021-10-01",
           "downloads": 1,
-          "version": 402725
+          "version": 396978
         },
         {
           "date": "2021-10-08",
@@ -19429,17 +19501,17 @@
         {
           "date": "2021-10-14",
           "downloads": 1,
-          "version": 397422
-        },
-        {
-          "date": "2021-10-14",
-          "downloads": 1,
           "version": 396978
         },
         {
           "date": "2021-10-14",
           "downloads": 1,
           "version": 402725
+        },
+        {
+          "date": "2021-10-14",
+          "downloads": 1,
+          "version": 397422
         },
         {
           "date": "2021-10-16",
@@ -19509,7 +19581,7 @@
         {
           "date": "2021-11-09",
           "downloads": 1,
-          "version": 397422
+          "version": 402725
         },
         {
           "date": "2021-11-09",
@@ -19519,12 +19591,12 @@
         {
           "date": "2021-11-09",
           "downloads": 1,
-          "version": 402725
+          "version": 396978
         },
         {
           "date": "2021-11-09",
           "downloads": 1,
-          "version": 396978
+          "version": 397422
         },
         {
           "date": "2021-11-19",
@@ -19579,17 +19651,17 @@
         {
           "date": "2021-12-04",
           "downloads": 1,
+          "version": 455694
+        },
+        {
+          "date": "2021-12-04",
+          "downloads": 1,
           "version": 402725
         },
         {
           "date": "2021-12-04",
           "downloads": 1,
           "version": 446613
-        },
-        {
-          "date": "2021-12-04",
-          "downloads": 1,
-          "version": 455694
         },
         {
           "date": "2021-12-08",
@@ -19604,12 +19676,12 @@
         {
           "date": "2021-12-09",
           "downloads": 1,
-          "version": 397422
+          "version": 402725
         },
         {
           "date": "2021-12-09",
           "downloads": 1,
-          "version": 402725
+          "version": 397422
         },
         {
           "date": "2021-12-09",
@@ -19629,10 +19701,15 @@
         {
           "date": "2021-12-14",
           "downloads": 1,
-          "version": 446613
+          "version": 455694
         },
         {
           "date": "2021-12-14",
+          "downloads": 1,
+          "version": 446613
+        },
+        {
+          "date": "2021-12-16",
           "downloads": 1,
           "version": 455694
         }
@@ -19705,13 +19782,38 @@
             "created_at": "2021-11-19T04:12:20.007056Z",
             "updated_at": "2021-11-19T04:12:20.007056Z",
             "dl_path": "/api/v1/crates/raui/0.38.4/download",
-            "downloads": 34,
+            "downloads": 35,
             "features": {
+              "binary": [
+                "raui-binary-renderer"
+              ],
               "html": [
                 "raui-html-renderer"
               ],
+              "integer64": [
+                "raui-core/integer64",
+                "raui-material/integer64",
+                "raui-tesselate-renderer/integer64"
+              ],
               "material": [
                 "raui-material"
+              ],
+              "json": [
+                "raui-json-renderer"
+              ],
+              "yaml": [
+                "raui-yaml-renderer"
+              ],
+              "ron": [
+                "raui-ron-renderer"
+              ],
+              "scalar64": [
+                "raui-core/scalar64",
+                "raui-material/scalar64",
+                "raui-tesselate-renderer/scalar64"
+              ],
+              "tesselate": [
+                "raui-tesselate-renderer"
               ],
               "all": [
                 "material",
@@ -19721,31 +19823,6 @@
                 "ron",
                 "tesselate",
                 "yaml"
-              ],
-              "tesselate": [
-                "raui-tesselate-renderer"
-              ],
-              "json": [
-                "raui-json-renderer"
-              ],
-              "ron": [
-                "raui-ron-renderer"
-              ],
-              "yaml": [
-                "raui-yaml-renderer"
-              ],
-              "scalar64": [
-                "raui-core/scalar64",
-                "raui-material/scalar64",
-                "raui-tesselate-renderer/scalar64"
-              ],
-              "integer64": [
-                "raui-core/integer64",
-                "raui-material/integer64",
-                "raui-tesselate-renderer/integer64"
-              ],
-              "binary": [
-                "raui-binary-renderer"
               ]
             },
             "id": 455701,
@@ -19772,7 +19849,7 @@
           "dependency": {
             "crate_id": "raui-json-renderer",
             "default_features": true,
-            "downloads": 3392,
+            "downloads": 3395,
             "features": [],
             "id": 3135019,
             "kind": "normal",
@@ -19792,7 +19869,7 @@
         "created_at": "2021-11-19T04:10:16.445982Z",
         "updated_at": "2021-11-19T04:10:16.445982Z",
         "dl_path": "/api/v1/crates/raui-json-renderer/0.38.4/download",
-        "downloads": 29,
+        "downloads": 30,
         "features": {},
         "id": 455694,
         "num": "0.38.4",
@@ -19857,7 +19934,7 @@
     "documentation": null,
     "homepage": null,
     "repository": "https://github.com/RAUI-labs/raui",
-    "total_downloads": 2582,
+    "total_downloads": 2586,
     "max_version": "0.38.4",
     "created_at": "2020-12-29T18:56:48.179084Z",
     "updated_at": "2021-11-19T04:08:55.775813Z",
@@ -19889,7 +19966,7 @@
       {
         "id": "gamedev",
         "keyword": "gamedev",
-        "crates_cnt": 428,
+        "crates_cnt": 429,
         "created_at": "2014-11-12T20:34:24.755176Z"
       },
       {
@@ -20242,6 +20319,11 @@
           "date": "2021-12-15",
           "downloads": 1,
           "version": 455689
+        },
+        {
+          "date": "2021-12-16",
+          "downloads": 2,
+          "version": 455689
         }
       ],
       "meta": {
@@ -20505,6 +20587,10 @@
           {
             "date": "2021-12-15",
             "downloads": 4
+          },
+          {
+            "date": "2021-12-16",
+            "downloads": 2
           }
         ]
       }
@@ -20528,15 +20614,13 @@
             "created_at": "2021-11-19T04:12:20.007056Z",
             "updated_at": "2021-11-19T04:12:20.007056Z",
             "dl_path": "/api/v1/crates/raui/0.38.4/download",
-            "downloads": 34,
+            "downloads": 35,
             "features": {
-              "scalar64": [
-                "raui-core/scalar64",
-                "raui-material/scalar64",
-                "raui-tesselate-renderer/scalar64"
+              "html": [
+                "raui-html-renderer"
               ],
-              "tesselate": [
-                "raui-tesselate-renderer"
+              "ron": [
+                "raui-ron-renderer"
               ],
               "all": [
                 "material",
@@ -20547,28 +20631,30 @@
                 "tesselate",
                 "yaml"
               ],
-              "yaml": [
-                "raui-yaml-renderer"
+              "json": [
+                "raui-json-renderer"
+              ],
+              "binary": [
+                "raui-binary-renderer"
               ],
               "integer64": [
                 "raui-core/integer64",
                 "raui-material/integer64",
                 "raui-tesselate-renderer/integer64"
               ],
-              "binary": [
-                "raui-binary-renderer"
+              "scalar64": [
+                "raui-core/scalar64",
+                "raui-material/scalar64",
+                "raui-tesselate-renderer/scalar64"
+              ],
+              "tesselate": [
+                "raui-tesselate-renderer"
+              ],
+              "yaml": [
+                "raui-yaml-renderer"
               ],
               "material": [
                 "raui-material"
-              ],
-              "ron": [
-                "raui-ron-renderer"
-              ],
-              "html": [
-                "raui-html-renderer"
-              ],
-              "json": [
-                "raui-json-renderer"
               ]
             },
             "id": 455701,
@@ -20595,7 +20681,7 @@
           "dependency": {
             "crate_id": "raui-material",
             "default_features": true,
-            "downloads": 3392,
+            "downloads": 3395,
             "features": [],
             "id": 3135020,
             "kind": "normal",
@@ -20611,21 +20697,21 @@
             "created_at": "2021-12-13T05:31:05.627348Z",
             "updated_at": "2021-12-13T05:31:05.627348Z",
             "dl_path": "/api/v1/crates/oxygengine-user-interface/0.26.0/download",
-            "downloads": 22,
+            "downloads": 23,
             "features": {
-              "parallel": [
-                "oxygengine-core/parallel",
-                "oxygengine-input/parallel"
-              ],
-              "web": [
-                "oxygengine-core/web",
-                "oxygengine-input/web"
-              ],
               "scalar64": [
                 "raui-core/scalar64",
                 "raui-material/scalar64",
                 "oxygengine-core/scalar64",
                 "oxygengine-input/scalar64"
+              ],
+              "web": [
+                "oxygengine-core/web",
+                "oxygengine-input/web"
+              ],
+              "parallel": [
+                "oxygengine-core/parallel",
+                "oxygengine-input/parallel"
               ]
             },
             "id": 467201,
@@ -20652,7 +20738,7 @@
           "dependency": {
             "crate_id": "raui-material",
             "default_features": true,
-            "downloads": 549,
+            "downloads": 550,
             "features": [],
             "id": 3240187,
             "kind": "normal",
@@ -20672,13 +20758,13 @@
         "created_at": "2021-11-19T04:08:55.775813Z",
         "updated_at": "2021-11-19T04:08:55.775813Z",
         "dl_path": "/api/v1/crates/raui-material/0.38.4/download",
-        "downloads": 57,
+        "downloads": 59,
         "features": {
-          "scalar64": [
-            "raui-core/scalar64"
-          ],
           "integer64": [
             "raui-core/integer64"
+          ],
+          "scalar64": [
+            "raui-core/scalar64"
           ]
         },
         "id": 455689,
@@ -20764,7 +20850,7 @@
       {
         "id": "gamedev",
         "keyword": "gamedev",
-        "crates_cnt": 428,
+        "crates_cnt": 429,
         "created_at": "2014-11-12T20:34:24.755176Z"
       },
       {
@@ -21227,7 +21313,7 @@
     "documentation": null,
     "homepage": null,
     "repository": "https://github.com/RAUI-labs/raui",
-    "total_downloads": 2117,
+    "total_downloads": 2118,
     "max_version": "0.38.4",
     "created_at": "2020-12-05T06:36:37.104363Z",
     "updated_at": "2021-11-19T04:10:36.879985Z",
@@ -21259,7 +21345,7 @@
       {
         "id": "gamedev",
         "keyword": "gamedev",
-        "crates_cnt": 428,
+        "crates_cnt": 429,
         "created_at": "2014-11-12T20:34:24.755176Z"
       },
       {
@@ -21286,7 +21372,7 @@
         {
           "date": "2021-09-19",
           "downloads": 1,
-          "version": 397423
+          "version": 396979
         },
         {
           "date": "2021-09-19",
@@ -21296,7 +21382,7 @@
         {
           "date": "2021-09-19",
           "downloads": 1,
-          "version": 396979
+          "version": 397423
         },
         {
           "date": "2021-09-20",
@@ -21316,12 +21402,12 @@
         {
           "date": "2021-10-01",
           "downloads": 1,
-          "version": 396979
+          "version": 402726
         },
         {
           "date": "2021-10-01",
           "downloads": 1,
-          "version": 402726
+          "version": 396979
         },
         {
           "date": "2021-10-08",
@@ -21351,17 +21437,17 @@
         {
           "date": "2021-10-17",
           "downloads": 1,
-          "version": 396979
-        },
-        {
-          "date": "2021-10-17",
-          "downloads": 1,
           "version": 397423
         },
         {
           "date": "2021-10-17",
           "downloads": 1,
           "version": 402726
+        },
+        {
+          "date": "2021-10-17",
+          "downloads": 1,
+          "version": 396979
         },
         {
           "date": "2021-10-23",
@@ -21411,7 +21497,7 @@
         {
           "date": "2021-11-09",
           "downloads": 1,
-          "version": 397423
+          "version": 396979
         },
         {
           "date": "2021-11-09",
@@ -21421,7 +21507,7 @@
         {
           "date": "2021-11-09",
           "downloads": 1,
-          "version": 396979
+          "version": 397423
         },
         {
           "date": "2021-11-19",
@@ -21430,13 +21516,13 @@
         },
         {
           "date": "2021-11-20",
-          "downloads": 1,
-          "version": 446614
+          "downloads": 4,
+          "version": 455696
         },
         {
           "date": "2021-11-20",
-          "downloads": 4,
-          "version": 455696
+          "downloads": 1,
+          "version": 446614
         },
         {
           "date": "2021-11-21",
@@ -21475,6 +21561,11 @@
         },
         {
           "date": "2021-12-04",
+          "downloads": 2,
+          "version": 455696
+        },
+        {
+          "date": "2021-12-04",
           "downloads": 1,
           "version": 402726
         },
@@ -21482,11 +21573,6 @@
           "date": "2021-12-04",
           "downloads": 1,
           "version": 446614
-        },
-        {
-          "date": "2021-12-04",
-          "downloads": 2,
-          "version": 455696
         },
         {
           "date": "2021-12-08",
@@ -21501,12 +21587,12 @@
         {
           "date": "2021-12-09",
           "downloads": 1,
-          "version": 397423
+          "version": 402726
         },
         {
           "date": "2021-12-09",
           "downloads": 1,
-          "version": 402726
+          "version": 397423
         },
         {
           "date": "2021-12-09",
@@ -21526,10 +21612,15 @@
         {
           "date": "2021-12-14",
           "downloads": 1,
-          "version": 446614
+          "version": 455696
         },
         {
           "date": "2021-12-14",
+          "downloads": 1,
+          "version": 446614
+        },
+        {
+          "date": "2021-12-16",
           "downloads": 1,
           "version": 455696
         }
@@ -21594,13 +21685,35 @@
             "created_at": "2021-11-19T04:12:20.007056Z",
             "updated_at": "2021-11-19T04:12:20.007056Z",
             "dl_path": "/api/v1/crates/raui/0.38.4/download",
-            "downloads": 34,
+            "downloads": 35,
             "features": {
               "ron": [
                 "raui-ron-renderer"
               ],
+              "integer64": [
+                "raui-core/integer64",
+                "raui-material/integer64",
+                "raui-tesselate-renderer/integer64"
+              ],
+              "json": [
+                "raui-json-renderer"
+              ],
               "binary": [
                 "raui-binary-renderer"
+              ],
+              "tesselate": [
+                "raui-tesselate-renderer"
+              ],
+              "scalar64": [
+                "raui-core/scalar64",
+                "raui-material/scalar64",
+                "raui-tesselate-renderer/scalar64"
+              ],
+              "material": [
+                "raui-material"
+              ],
+              "html": [
+                "raui-html-renderer"
               ],
               "all": [
                 "material",
@@ -21610,28 +21723,6 @@
                 "ron",
                 "tesselate",
                 "yaml"
-              ],
-              "scalar64": [
-                "raui-core/scalar64",
-                "raui-material/scalar64",
-                "raui-tesselate-renderer/scalar64"
-              ],
-              "json": [
-                "raui-json-renderer"
-              ],
-              "integer64": [
-                "raui-core/integer64",
-                "raui-material/integer64",
-                "raui-tesselate-renderer/integer64"
-              ],
-              "html": [
-                "raui-html-renderer"
-              ],
-              "material": [
-                "raui-material"
-              ],
-              "tesselate": [
-                "raui-tesselate-renderer"
               ],
               "yaml": [
                 "raui-yaml-renderer"
@@ -21661,7 +21752,7 @@
           "dependency": {
             "crate_id": "raui-ron-renderer",
             "default_features": true,
-            "downloads": 3392,
+            "downloads": 3395,
             "features": [],
             "id": 3135021,
             "kind": "normal",
@@ -21681,7 +21772,7 @@
         "created_at": "2021-11-19T04:10:36.879985Z",
         "updated_at": "2021-11-19T04:10:36.879985Z",
         "dl_path": "/api/v1/crates/raui-ron-renderer/0.38.4/download",
-        "downloads": 31,
+        "downloads": 32,
         "features": {},
         "id": 455696,
         "num": "0.38.4",
@@ -21746,7 +21837,7 @@
     "documentation": null,
     "homepage": null,
     "repository": "https://github.com/RAUI-labs/raui",
-    "total_downloads": 1329,
+    "total_downloads": 1333,
     "max_version": "0.38.4",
     "created_at": "2021-03-31T23:37:01.982034Z",
     "updated_at": "2021-11-19T04:09:18.166984Z",
@@ -21778,7 +21869,7 @@
       {
         "id": "gamedev",
         "keyword": "gamedev",
-        "crates_cnt": 428,
+        "crates_cnt": 429,
         "created_at": "2014-11-12T20:34:24.755176Z"
       },
       {
@@ -21830,17 +21921,17 @@
         {
           "date": "2021-10-01",
           "downloads": 1,
-          "version": 397419
-        },
-        {
-          "date": "2021-10-01",
-          "downloads": 1,
           "version": 402721
         },
         {
           "date": "2021-10-01",
           "downloads": 1,
           "version": 396975
+        },
+        {
+          "date": "2021-10-01",
+          "downloads": 1,
+          "version": 397419
         },
         {
           "date": "2021-10-08",
@@ -21855,17 +21946,17 @@
         {
           "date": "2021-10-14",
           "downloads": 1,
+          "version": 402721
+        },
+        {
+          "date": "2021-10-14",
+          "downloads": 1,
           "version": 397419
         },
         {
           "date": "2021-10-14",
           "downloads": 1,
           "version": 396975
-        },
-        {
-          "date": "2021-10-14",
-          "downloads": 1,
-          "version": 402721
         },
         {
           "date": "2021-10-16",
@@ -21875,17 +21966,17 @@
         {
           "date": "2021-10-17",
           "downloads": 1,
-          "version": 402721
-        },
-        {
-          "date": "2021-10-17",
-          "downloads": 1,
           "version": 397419
         },
         {
           "date": "2021-10-17",
           "downloads": 1,
           "version": 396975
+        },
+        {
+          "date": "2021-10-17",
+          "downloads": 1,
+          "version": 402721
         },
         {
           "date": "2021-10-22",
@@ -21949,11 +22040,6 @@
         },
         {
           "date": "2021-11-09",
-          "downloads": 2,
-          "version": 446609
-        },
-        {
-          "date": "2021-11-09",
           "downloads": 1,
           "version": 397419
         },
@@ -21961,6 +22047,11 @@
           "date": "2021-11-09",
           "downloads": 1,
           "version": 396975
+        },
+        {
+          "date": "2021-11-09",
+          "downloads": 2,
+          "version": 446609
         },
         {
           "date": "2021-11-13",
@@ -21979,13 +22070,13 @@
         },
         {
           "date": "2021-11-20",
-          "downloads": 1,
-          "version": 446609
+          "downloads": 13,
+          "version": 455690
         },
         {
           "date": "2021-11-20",
-          "downloads": 13,
-          "version": 455690
+          "downloads": 1,
+          "version": 446609
         },
         {
           "date": "2021-11-21",
@@ -22025,22 +22116,22 @@
         {
           "date": "2021-12-04",
           "downloads": 1,
-          "version": 402721
-        },
-        {
-          "date": "2021-12-04",
-          "downloads": 1,
-          "version": 455690
-        },
-        {
-          "date": "2021-12-04",
-          "downloads": 1,
           "version": 397419
         },
         {
           "date": "2021-12-04",
           "downloads": 1,
           "version": 396975
+        },
+        {
+          "date": "2021-12-04",
+          "downloads": 1,
+          "version": 402721
+        },
+        {
+          "date": "2021-12-04",
+          "downloads": 1,
+          "version": 455690
         },
         {
           "date": "2021-12-04",
@@ -22064,18 +22155,18 @@
         },
         {
           "date": "2021-12-09",
-          "downloads": 1,
-          "version": 402721
-        },
-        {
-          "date": "2021-12-09",
           "downloads": 2,
           "version": 455690
         },
         {
           "date": "2021-12-09",
           "downloads": 1,
-          "version": 396975
+          "version": 446609
+        },
+        {
+          "date": "2021-12-09",
+          "downloads": 1,
+          "version": 402721
         },
         {
           "date": "2021-12-09",
@@ -22085,7 +22176,7 @@
         {
           "date": "2021-12-09",
           "downloads": 1,
-          "version": 446609
+          "version": 396975
         },
         {
           "date": "2021-12-12",
@@ -22109,6 +22200,11 @@
         },
         {
           "date": "2021-12-15",
+          "downloads": 2,
+          "version": 455690
+        },
+        {
+          "date": "2021-12-16",
           "downloads": 2,
           "version": 455690
         }
@@ -22374,6 +22470,10 @@
           {
             "date": "2021-12-15",
             "downloads": 5
+          },
+          {
+            "date": "2021-12-16",
+            "downloads": 2
           }
         ]
       }
@@ -22397,33 +22497,8 @@
             "created_at": "2021-11-19T04:12:20.007056Z",
             "updated_at": "2021-11-19T04:12:20.007056Z",
             "dl_path": "/api/v1/crates/raui/0.38.4/download",
-            "downloads": 34,
+            "downloads": 35,
             "features": {
-              "html": [
-                "raui-html-renderer"
-              ],
-              "ron": [
-                "raui-ron-renderer"
-              ],
-              "scalar64": [
-                "raui-core/scalar64",
-                "raui-material/scalar64",
-                "raui-tesselate-renderer/scalar64"
-              ],
-              "material": [
-                "raui-material"
-              ],
-              "yaml": [
-                "raui-yaml-renderer"
-              ],
-              "binary": [
-                "raui-binary-renderer"
-              ],
-              "integer64": [
-                "raui-core/integer64",
-                "raui-material/integer64",
-                "raui-tesselate-renderer/integer64"
-              ],
               "all": [
                 "material",
                 "binary",
@@ -22433,11 +22508,36 @@
                 "tesselate",
                 "yaml"
               ],
-              "json": [
-                "raui-json-renderer"
+              "integer64": [
+                "raui-core/integer64",
+                "raui-material/integer64",
+                "raui-tesselate-renderer/integer64"
+              ],
+              "material": [
+                "raui-material"
+              ],
+              "ron": [
+                "raui-ron-renderer"
+              ],
+              "scalar64": [
+                "raui-core/scalar64",
+                "raui-material/scalar64",
+                "raui-tesselate-renderer/scalar64"
+              ],
+              "binary": [
+                "raui-binary-renderer"
               ],
               "tesselate": [
                 "raui-tesselate-renderer"
+              ],
+              "yaml": [
+                "raui-yaml-renderer"
+              ],
+              "html": [
+                "raui-html-renderer"
+              ],
+              "json": [
+                "raui-json-renderer"
               ]
             },
             "id": 455701,
@@ -22464,7 +22564,7 @@
           "dependency": {
             "crate_id": "raui-tesselate-renderer",
             "default_features": true,
-            "downloads": 3392,
+            "downloads": 3395,
             "features": [],
             "id": 3135022,
             "kind": "normal",
@@ -22480,7 +22580,7 @@
             "created_at": "2021-11-19T04:11:36.289889Z",
             "updated_at": "2021-11-19T04:11:36.289889Z",
             "dl_path": "/api/v1/crates/raui-tetra-renderer/0.38.4/download",
-            "downloads": 32,
+            "downloads": 33,
             "features": {},
             "id": 455699,
             "num": "0.38.4",
@@ -22506,7 +22606,7 @@
           "dependency": {
             "crate_id": "raui-tesselate-renderer",
             "default_features": true,
-            "downloads": 632,
+            "downloads": 633,
             "features": [
               "index32"
             ],
@@ -22524,22 +22624,22 @@
             "created_at": "2021-12-13T05:33:06.091592Z",
             "updated_at": "2021-12-13T05:33:06.091592Z",
             "dl_path": "/api/v1/crates/oxygengine-integration-ui-ha/0.26.0/download",
-            "downloads": 21,
+            "downloads": 22,
             "features": {
               "scalar64": [
                 "oxygengine-core/scalar64",
                 "oxygengine-user-interface/scalar64",
                 "oxygengine-ha-renderer/scalar64"
               ],
-              "web": [
-                "oxygengine-core/web",
-                "oxygengine-user-interface/web",
-                "oxygengine-ha-renderer/web"
-              ],
               "parallel": [
                 "oxygengine-core/parallel",
                 "oxygengine-user-interface/parallel",
                 "oxygengine-ha-renderer/parallel"
+              ],
+              "web": [
+                "oxygengine-core/web",
+                "oxygengine-user-interface/web",
+                "oxygengine-ha-renderer/web"
               ]
             },
             "id": 467208,
@@ -22566,7 +22666,7 @@
           "dependency": {
             "crate_id": "raui-tesselate-renderer",
             "default_features": true,
-            "downloads": 150,
+            "downloads": 151,
             "features": [
               "index32"
             ],
@@ -22588,15 +22688,15 @@
         "created_at": "2021-11-19T04:09:18.166984Z",
         "updated_at": "2021-11-19T04:09:18.166984Z",
         "dl_path": "/api/v1/crates/raui-tesselate-renderer/0.38.4/download",
-        "downloads": 56,
+        "downloads": 58,
         "features": {
-          "integer64": [
-            "raui-core/integer64"
-          ],
+          "index32": [],
           "scalar64": [
             "raui-core/scalar64"
           ],
-          "index32": []
+          "integer64": [
+            "raui-core/integer64"
+          ]
         },
         "id": 455690,
         "num": "0.38.4",
@@ -22661,7 +22761,7 @@
     "documentation": null,
     "homepage": null,
     "repository": "https://github.com/RAUI-labs/raui",
-    "total_downloads": 632,
+    "total_downloads": 633,
     "max_version": "0.38.4",
     "created_at": "2021-03-31T23:39:30.067050Z",
     "updated_at": "2021-11-19T04:11:36.289889Z",
@@ -22693,7 +22793,7 @@
       {
         "id": "gamedev",
         "keyword": "gamedev",
-        "crates_cnt": 428,
+        "crates_cnt": 429,
         "created_at": "2014-11-12T20:34:24.755176Z"
       },
       {
@@ -22719,11 +22819,6 @@
       "version_downloads": [
         {
           "date": "2021-09-19",
-          "downloads": 2,
-          "version": 402729
-        },
-        {
-          "date": "2021-09-19",
           "downloads": 1,
           "version": 397426
         },
@@ -22731,6 +22826,11 @@
           "date": "2021-09-19",
           "downloads": 1,
           "version": 396982
+        },
+        {
+          "date": "2021-09-19",
+          "downloads": 2,
+          "version": 402729
         },
         {
           "date": "2021-09-20",
@@ -22745,17 +22845,17 @@
         {
           "date": "2021-10-01",
           "downloads": 1,
-          "version": 397426
-        },
-        {
-          "date": "2021-10-01",
-          "downloads": 1,
           "version": 402729
         },
         {
           "date": "2021-10-01",
           "downloads": 1,
           "version": 396982
+        },
+        {
+          "date": "2021-10-01",
+          "downloads": 1,
+          "version": 397426
         },
         {
           "date": "2021-10-08",
@@ -22770,7 +22870,7 @@
         {
           "date": "2021-10-14",
           "downloads": 1,
-          "version": 396982
+          "version": 402729
         },
         {
           "date": "2021-10-14",
@@ -22780,7 +22880,7 @@
         {
           "date": "2021-10-14",
           "downloads": 1,
-          "version": 402729
+          "version": 396982
         },
         {
           "date": "2021-10-16",
@@ -22795,12 +22895,12 @@
         {
           "date": "2021-10-17",
           "downloads": 1,
-          "version": 402729
+          "version": 396982
         },
         {
           "date": "2021-10-17",
           "downloads": 1,
-          "version": 396982
+          "version": 402729
         },
         {
           "date": "2021-10-22",
@@ -22870,7 +22970,12 @@
         {
           "date": "2021-11-09",
           "downloads": 1,
-          "version": 396982
+          "version": 446617
+        },
+        {
+          "date": "2021-11-09",
+          "downloads": 1,
+          "version": 397426
         },
         {
           "date": "2021-11-09",
@@ -22880,12 +22985,7 @@
         {
           "date": "2021-11-09",
           "downloads": 1,
-          "version": 446617
-        },
-        {
-          "date": "2021-11-09",
-          "downloads": 1,
-          "version": 397426
+          "version": 396982
         },
         {
           "date": "2021-11-13",
@@ -22945,12 +23045,12 @@
         {
           "date": "2021-12-04",
           "downloads": 1,
-          "version": 446617
+          "version": 397426
         },
         {
           "date": "2021-12-04",
           "downloads": 1,
-          "version": 455699
+          "version": 402729
         },
         {
           "date": "2021-12-04",
@@ -22960,12 +23060,12 @@
         {
           "date": "2021-12-04",
           "downloads": 1,
-          "version": 397426
+          "version": 455699
         },
         {
           "date": "2021-12-04",
           "downloads": 1,
-          "version": 402729
+          "version": 446617
         },
         {
           "date": "2021-12-08",
@@ -22974,13 +23074,13 @@
         },
         {
           "date": "2021-12-09",
-          "downloads": 1,
-          "version": 397426
+          "downloads": 2,
+          "version": 455699
         },
         {
           "date": "2021-12-09",
           "downloads": 1,
-          "version": 396982
+          "version": 446617
         },
         {
           "date": "2021-12-09",
@@ -22990,12 +23090,12 @@
         {
           "date": "2021-12-09",
           "downloads": 1,
-          "version": 446617
+          "version": 397426
         },
         {
           "date": "2021-12-09",
-          "downloads": 2,
-          "version": 455699
+          "downloads": 1,
+          "version": 396982
         },
         {
           "date": "2021-12-12",
@@ -23005,15 +23105,20 @@
         {
           "date": "2021-12-14",
           "downloads": 1,
-          "version": 455699
+          "version": 446617
         },
         {
           "date": "2021-12-14",
           "downloads": 1,
-          "version": 446617
+          "version": 455699
         },
         {
           "date": "2021-12-15",
+          "downloads": 1,
+          "version": 455699
+        },
+        {
+          "date": "2021-12-16",
           "downloads": 1,
           "version": 455699
         }
@@ -23144,7 +23249,7 @@
         "created_at": "2021-11-19T04:11:36.289889Z",
         "updated_at": "2021-11-19T04:11:36.289889Z",
         "dl_path": "/api/v1/crates/raui-tetra-renderer/0.38.4/download",
-        "downloads": 32,
+        "downloads": 33,
         "features": {},
         "id": 455699,
         "num": "0.38.4",
@@ -23226,7 +23331,7 @@
     "documentation": null,
     "homepage": null,
     "repository": "https://github.com/RAUI-labs/raui",
-    "total_downloads": 2165,
+    "total_downloads": 2166,
     "max_version": "0.38.4",
     "created_at": "2020-12-05T06:37:16.527880Z",
     "updated_at": "2021-11-19T04:10:58.581366Z",
@@ -23258,7 +23363,7 @@
       {
         "id": "gamedev",
         "keyword": "gamedev",
-        "crates_cnt": 428,
+        "crates_cnt": 429,
         "created_at": "2014-11-12T20:34:24.755176Z"
       },
       {
@@ -23290,12 +23395,12 @@
         {
           "date": "2021-09-19",
           "downloads": 1,
-          "version": 397424
+          "version": 396980
         },
         {
           "date": "2021-09-19",
           "downloads": 1,
-          "version": 396980
+          "version": 397424
         },
         {
           "date": "2021-09-20",
@@ -23320,17 +23425,17 @@
         {
           "date": "2021-10-01",
           "downloads": 1,
-          "version": 402727
-        },
-        {
-          "date": "2021-10-01",
-          "downloads": 1,
           "version": 397424
         },
         {
           "date": "2021-10-01",
           "downloads": 1,
           "version": 396980
+        },
+        {
+          "date": "2021-10-01",
+          "downloads": 1,
+          "version": 402727
         },
         {
           "date": "2021-10-08",
@@ -23340,17 +23445,17 @@
         {
           "date": "2021-10-14",
           "downloads": 1,
+          "version": 396980
+        },
+        {
+          "date": "2021-10-14",
+          "downloads": 1,
           "version": 402727
         },
         {
           "date": "2021-10-14",
           "downloads": 1,
           "version": 397424
-        },
-        {
-          "date": "2021-10-14",
-          "downloads": 1,
-          "version": 396980
         },
         {
           "date": "2021-10-16",
@@ -23360,17 +23465,17 @@
         {
           "date": "2021-10-17",
           "downloads": 1,
-          "version": 396980
-        },
-        {
-          "date": "2021-10-17",
-          "downloads": 1,
           "version": 397424
         },
         {
           "date": "2021-10-17",
           "downloads": 1,
           "version": 402727
+        },
+        {
+          "date": "2021-10-17",
+          "downloads": 1,
+          "version": 396980
         },
         {
           "date": "2021-10-23",
@@ -23415,12 +23520,12 @@
         {
           "date": "2021-11-09",
           "downloads": 1,
-          "version": 402727
+          "version": 396980
         },
         {
           "date": "2021-11-09",
           "downloads": 1,
-          "version": 396980
+          "version": 402727
         },
         {
           "date": "2021-11-09",
@@ -23485,17 +23590,17 @@
         {
           "date": "2021-12-04",
           "downloads": 1,
+          "version": 455697
+        },
+        {
+          "date": "2021-12-04",
+          "downloads": 1,
           "version": 402727
         },
         {
           "date": "2021-12-04",
           "downloads": 1,
           "version": 446615
-        },
-        {
-          "date": "2021-12-04",
-          "downloads": 1,
-          "version": 455697
         },
         {
           "date": "2021-12-08",
@@ -23510,12 +23615,12 @@
         {
           "date": "2021-12-09",
           "downloads": 1,
-          "version": 397424
+          "version": 402727
         },
         {
           "date": "2021-12-09",
           "downloads": 1,
-          "version": 402727
+          "version": 397424
         },
         {
           "date": "2021-12-09",
@@ -23535,10 +23640,15 @@
         {
           "date": "2021-12-14",
           "downloads": 1,
-          "version": 446615
+          "version": 455697
         },
         {
           "date": "2021-12-14",
+          "downloads": 1,
+          "version": 446615
+        },
+        {
+          "date": "2021-12-16",
           "downloads": 1,
           "version": 455697
         }
@@ -23623,12 +23733,30 @@
             "created_at": "2021-11-19T04:12:20.007056Z",
             "updated_at": "2021-11-19T04:12:20.007056Z",
             "dl_path": "/api/v1/crates/raui/0.38.4/download",
-            "downloads": 34,
+            "downloads": 35,
             "features": {
+              "ron": [
+                "raui-ron-renderer"
+              ],
               "integer64": [
                 "raui-core/integer64",
                 "raui-material/integer64",
                 "raui-tesselate-renderer/integer64"
+              ],
+              "material": [
+                "raui-material"
+              ],
+              "all": [
+                "material",
+                "binary",
+                "html",
+                "json",
+                "ron",
+                "tesselate",
+                "yaml"
+              ],
+              "binary": [
+                "raui-binary-renderer"
               ],
               "scalar64": [
                 "raui-core/scalar64",
@@ -23641,29 +23769,11 @@
               "html": [
                 "raui-html-renderer"
               ],
-              "tesselate": [
-                "raui-tesselate-renderer"
-              ],
-              "all": [
-                "material",
-                "binary",
-                "html",
-                "json",
-                "ron",
-                "tesselate",
-                "yaml"
-              ],
-              "material": [
-                "raui-material"
-              ],
-              "binary": [
-                "raui-binary-renderer"
-              ],
               "json": [
                 "raui-json-renderer"
               ],
-              "ron": [
-                "raui-ron-renderer"
+              "tesselate": [
+                "raui-tesselate-renderer"
               ]
             },
             "id": 455701,
@@ -23690,7 +23800,7 @@
           "dependency": {
             "crate_id": "raui-yaml-renderer",
             "default_features": true,
-            "downloads": 3392,
+            "downloads": 3395,
             "features": [],
             "id": 3135023,
             "kind": "normal",
@@ -23710,7 +23820,7 @@
         "created_at": "2021-11-19T04:10:58.581366Z",
         "updated_at": "2021-11-19T04:10:58.581366Z",
         "dl_path": "/api/v1/crates/raui-yaml-renderer/0.38.4/download",
-        "downloads": 29,
+        "downloads": 30,
         "features": {},
         "id": 455697,
         "num": "0.38.4",
@@ -23782,7 +23892,7 @@
     "categories": [
       {
         "category": "Algorithms",
-        "crates_cnt": 1386,
+        "crates_cnt": 1387,
         "created_at": "2017-01-17T19:13:05.112025Z",
         "description": "Rust implementations of core algorithms such as hashing, sorting, searching, and more.",
         "id": "algorithms",
@@ -24012,7 +24122,7 @@
     "documentation": null,
     "homepage": null,
     "repository": "https://github.com/gretchenfrage/smartpool",
-    "total_downloads": 1513,
+    "total_downloads": 1514,
     "max_version": "0.3.2",
     "created_at": "2018-11-16T03:42:01.622989Z",
     "updated_at": "2019-02-17T23:07:01.506084Z",
@@ -24037,12 +24147,7 @@
         {
           "date": "2021-10-03",
           "downloads": 1,
-          "version": 134395
-        },
-        {
-          "date": "2021-10-03",
-          "downloads": 1,
-          "version": 118413
+          "version": 134200
         },
         {
           "date": "2021-10-03",
@@ -24052,12 +24157,17 @@
         {
           "date": "2021-10-03",
           "downloads": 1,
-          "version": 134200
+          "version": 118549
         },
         {
           "date": "2021-10-03",
           "downloads": 1,
-          "version": 118549
+          "version": 134395
+        },
+        {
+          "date": "2021-10-03",
+          "downloads": 1,
+          "version": 118413
         },
         {
           "date": "2021-10-08",
@@ -24072,7 +24182,7 @@
         {
           "date": "2021-10-13",
           "downloads": 1,
-          "version": 129077
+          "version": 134200
         },
         {
           "date": "2021-10-13",
@@ -24082,17 +24192,17 @@
         {
           "date": "2021-10-13",
           "downloads": 1,
-          "version": 134395
-        },
-        {
-          "date": "2021-10-13",
-          "downloads": 1,
           "version": 118549
         },
         {
           "date": "2021-10-13",
           "downloads": 1,
-          "version": 134200
+          "version": 134395
+        },
+        {
+          "date": "2021-10-13",
+          "downloads": 1,
+          "version": 129077
         },
         {
           "date": "2021-10-16",
@@ -24117,12 +24227,7 @@
         {
           "date": "2021-11-04",
           "downloads": 1,
-          "version": 118549
-        },
-        {
-          "date": "2021-11-04",
-          "downloads": 1,
-          "version": 129077
+          "version": 118413
         },
         {
           "date": "2021-11-04",
@@ -24137,7 +24242,12 @@
         {
           "date": "2021-11-04",
           "downloads": 1,
-          "version": 118413
+          "version": 129077
+        },
+        {
+          "date": "2021-11-04",
+          "downloads": 1,
+          "version": 118549
         },
         {
           "date": "2021-11-05",
@@ -24147,7 +24257,7 @@
         {
           "date": "2021-11-08",
           "downloads": 1,
-          "version": 134200
+          "version": 118413
         },
         {
           "date": "2021-11-08",
@@ -24157,17 +24267,17 @@
         {
           "date": "2021-11-08",
           "downloads": 1,
-          "version": 129077
-        },
-        {
-          "date": "2021-11-08",
-          "downloads": 1,
           "version": 118549
         },
         {
           "date": "2021-11-08",
           "downloads": 1,
-          "version": 118413
+          "version": 129077
+        },
+        {
+          "date": "2021-11-08",
+          "downloads": 1,
+          "version": 134200
         },
         {
           "date": "2021-11-19",
@@ -24207,17 +24317,17 @@
         {
           "date": "2021-12-04",
           "downloads": 1,
-          "version": 129077
-        },
-        {
-          "date": "2021-12-04",
-          "downloads": 1,
           "version": 118549
         },
         {
           "date": "2021-12-04",
           "downloads": 1,
           "version": 134200
+        },
+        {
+          "date": "2021-12-04",
+          "downloads": 1,
+          "version": 129077
         },
         {
           "date": "2021-12-04",
@@ -24246,6 +24356,11 @@
         },
         {
           "date": "2021-12-13",
+          "downloads": 1,
+          "version": 134395
+        },
+        {
+          "date": "2021-12-16",
           "downloads": 1,
           "version": 134395
         }
@@ -24340,7 +24455,7 @@
         "created_at": "2019-02-17T23:07:01.506084Z",
         "updated_at": "2019-02-17T23:07:01.506084Z",
         "dl_path": "/api/v1/crates/smartpool/0.3.2/download",
-        "downloads": 429,
+        "downloads": 430,
         "features": {},
         "id": 134395,
         "num": "0.3.2",
